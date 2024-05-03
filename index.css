@@ -24,7 +24,7 @@ body {
     height: 100%;
     min-height: 500px;
     background-color: var(--color_1);
-    background-image: url('/bg-inicial.png');
+    background-image: url('bg-inicial.png');
     background-size: 100%;
     display: flex;
     align-items: center;

@@ -24,7 +24,7 @@ body {
     height: 100%;
     min-height: 500px;
     background-color: var(--color_1);
-    background-image: url('/bg-home.png');
+    background-image: url('bg-home.png');
     background-size: 100% 100%;
     display: flex;
     justify-content: center;
@@ -162,7 +162,7 @@ body {
     height: 80%;
     min-height: 500px;
     background-color: #fbc2946d;
-    background-image: url('/base-modal2.png') !important;
+    background-image: url('base-modal2.png') !important;
     background-size: 100%;
     background-repeat:round;
     border-radius: 20px;

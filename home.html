@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="iconGol.png" type="image/x-icon">
+    <link rel="stylesheet" href="home.css">
+    <script src="home.js"></script>
+    <title>AeroChat - Scripts</title>
+</head>
+<body>
+
+    <!-- Modal -->
+    <div class="base-modal" id="base-modal">
+
+        <!-- Script inicial -->
+        <div class="modal">
+
+            <!-- Fechar Modal -->
+            <div class="base-fecharModal">
+                <img id="close" onclick="fecharModal()" src="close.png" alt="Fechar">
+            </div>
+            
+            <!-- Texto Curto do Modal -->
+            <!-- <div class="base-text_curto">
+                <div class="base-text_curto_1">
+                        <div class="text_curto">
+                            <div class="texto2" id="texto">
+
+                                
+                            </div>
+                            <input class="btn-copiar2" type="button" value="Copiar" onclick="copiarTexto('texto')">
+                        </div>
+                </div>
+            </div> -->
+
+            <!-- Texto Longo do Modal -->
+            <div class="base-text_longo">
+                <div class="base-text_longo_1">
+                        <div class="text_longo">
+
+                        </div>
+                </div>
+            </div>
+        </div>
+        
+    </div> <!-- End: modal -->
+
+
+    <div class="container">
+
+        <a href="index.html">
+            <img id="btn-home" src="home.png" alt="Inicio">
+        </a>
+        <div class="base-v-central">
+
+            <div class="base-h-center">
+
+                <!-- Card 1 -->
+                <div class="card" onclick="abrirModal('script_inicial')">
+                        <div class="span-left">
+
+                            <h3> Script inicial</h3>
+                        </div>
+                        <div class="span-right">
+                            <div class="base-search">
+                                <img class="img-search" src="search.png" alt="Search">
+                            </div>
+                        </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 2 -->
+                <div class="card" onclick="abrirModal('retorno_cliente')">
+                    <div class="span-left">
+                        <h3>Retorno do cliente</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 3 -->
+                <div class="card" onclick="abrirModal('aviso_falta_de_interacao')">
+                    <div class="span-left">
+                        <h3>Aviso falta de interação</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 4 -->
+                <div class="card" onclick="abrirModal('pesquisa_de_satisfacao')">
+                    <div class="span-left">
+                        <h3>Pesquisa de satisfação</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 5 -->
+                <div class="card" onclick="abrirModal('ausencia_do_cliente')">
+                    <div class="span-left">
+                        <h3>Ausência do cliente</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 6 -->
+                <div class="card" onclick="abrirModal('agradecimento')">
+                    <div class="span-left">
+                        <h3>Agradecimento - Hold/Mute</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 7 -->
+                <div class="card" onclick="abrirModal('acordo_de_esperanca')">
+                    <div class="span-left">
+                        <h3>Acordo de esperança</h3>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+                <!-- Card 8 -->
+                <div class="card" onclick="abrirModal('encerramento_falta_de_comunicacao')">
+                    <div class="span-left">
+                        <h4 id="h4-enceramento">Encerramento/Falta de comunicação</h4>
+                    </div>
+                    <div class="span-right">
+                        <div class="base-search">
+                            <img class="img-search" src="search.png" alt="Search">
+                        </div>
+                    </div>
+                </div> <!-- End: card -->
+
+            </div> <!-- End: base-h-center -->
+
+        </div> <!-- End: base-v-central -->
+    </div>
+
+    
+</body>
+</html>

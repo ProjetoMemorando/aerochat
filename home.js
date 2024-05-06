@@ -9,7 +9,8 @@ let retorno_cliente = [
   `Para darmos início ao atendimento, seria ótimo se você pudesse compartilhar os detalhes da sua reserva, preciso do localizador, dos trechos, datas e nomes dos passageiros. Aguardo suas informações para seguir adiante.`
 ]
 
-let aviso_falta_de_interacao = [
+let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 01 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠
+`,
   `Peço por gentileza, que mantenha o contato ativo, para que a conexão não se interrompa.`,
   `Preciso que responda para o atendimento não encerrar por falta de comunicação.`,
   `Olá, [nome do cliente] você está conectado ao atendimento Preciso que você retorne, pois nosso sistema está programado para ser encerrado automaticamente quando não há troca de mensagens.`,
@@ -37,6 +38,8 @@ let agradecimento = [
 ]
 
 let acordo_de_esperanca = [
+  `⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele.
+  Utilize o script abaixo para renovar o acordo de espera: ⚠`,
   `Só mais um momento por favor.`,
   `Estou quase terminando. Por favor, aguarde mais um instante.`,
   `Aguarde só mais um momento, por favor.`,
@@ -85,6 +88,7 @@ function abrirModal(value) {
         let novaDiv = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
+        novaDiv.setAttribute('id',`retorno_cliente${i}`);
         novaDiv.textContent = retorno_cliente[i];
         divText.appendChild(novaDiv);
       
@@ -92,9 +96,10 @@ function abrirModal(value) {
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-retorno_cliente${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('retorno_cliente${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -109,24 +114,33 @@ function abrirModal(value) {
       y.style.display = "block";
 
       // ----- Insere novas divs com os textos ----- //
-      for(let i = 0; i < aviso_falta_de_interacao.length; i++) {
+      for(let i = 1; i < aviso_falta_de_interacao.length; i++) {
 
         // ----- Cria a div onde vai ficar os textos ----- //
         let divText = document.querySelector('.text_longo');
         let novaDiv = document.createElement('div');
+
+        let novaDivAviso = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`aviso_falta_de_interacao${i}`);
         novaDiv.textContent = aviso_falta_de_interacao[i];
         divText.appendChild(novaDiv);
+
+        let divTextAlerta = document.querySelector('.base-fecharModal');
+        novaDivAviso.setAttribute('class','textoAlerta');
+        novaDivAviso.setAttribute('id',`alerta-aviso_falta_de_interacao${i}`);
+        novaDivAviso.textContent = aviso_falta_de_interacao[0];
+        divTextAlerta.appendChild(novaDivAviso);
       
         // ----- Cria o input que será o botão ----- //
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-aviso_falta_de_interacao${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('aviso_falta_de_interacao${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -148,7 +162,7 @@ function abrirModal(value) {
         let novaDiv = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`pesquisa_de_satisfacao${i}`);
         novaDiv.textContent = pesquisa_de_satisfacao[i];
         divText.appendChild(novaDiv);
       
@@ -156,9 +170,10 @@ function abrirModal(value) {
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-pesquisa_de_satisfacao${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('pesquisa_de_satisfacao${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -180,7 +195,7 @@ function abrirModal(value) {
         let novaDiv = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`ausencia_do_cliente${i}`);
         novaDiv.textContent = ausencia_do_cliente[i];
         divText.appendChild(novaDiv);
       
@@ -188,9 +203,10 @@ function abrirModal(value) {
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-ausencia_do_cliente${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('ausencia_do_cliente${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -212,7 +228,7 @@ function abrirModal(value) {
         let novaDiv = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`agradecimento${i}`);
         novaDiv.textContent = agradecimento[i];
         divText.appendChild(novaDiv);
       
@@ -220,9 +236,10 @@ function abrirModal(value) {
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-agradecimento${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('agradecimento${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -237,24 +254,33 @@ function abrirModal(value) {
       y.style.display = "block";
 
       // ----- Insere novas divs com os textos ----- //
-      for(let i = 0; i < acordo_de_esperanca.length; i++) {
+      for(let i = 1; i < acordo_de_esperanca.length; i++) {
 
         // ----- Cria a div onde vai ficar os textos ----- //
         let divText = document.querySelector('.text_longo');
         let novaDiv = document.createElement('div');
       
+        let novaDivAviso = document.createElement('div');
+
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`acordo_de_esperanca${i}`);
         novaDiv.textContent = acordo_de_esperanca[i];
         divText.appendChild(novaDiv);
-      
+        
+        let divTextAlerta = document.querySelector('.base-fecharModal');
+        novaDivAviso.setAttribute('class','textoAlerta');
+        novaDivAviso.setAttribute('id',`alerta-acordo_de_esperanca${i}`);
+        novaDivAviso.textContent = acordo_de_esperanca[0];
+        divTextAlerta.appendChild(novaDivAviso);
+
         // ----- Cria o input que será o botão ----- //
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-acordo_de_esperanca${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('acordo_de_esperanca${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -276,17 +302,18 @@ function abrirModal(value) {
         let novaDiv = document.createElement('div');
       
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`texto${i}`);
+        novaDiv.setAttribute('id',`encerramento_falta_de_comunicacao${i}`);
         novaDiv.textContent = encerramento_falta_de_comunicacao[i];
         divText.appendChild(novaDiv);
-      
+        
         // ----- Cria o input que será o botão ----- //
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-encerramento_falta_de_comunicacao${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('texto${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('encerramento_falta_de_comunicacao${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -294,38 +321,23 @@ function abrirModal(value) {
 
       break;
 
-    default:
-      console.log("Opção inválida");
-  }
+  };
 
-}
+};
 
 
 // ---------- COPIAR OS DADOS PARA A ÁREA DE TRANSFERÊNCIA ---------- //
 
 function copiarTexto(idDaDiv) {
-  // Obtém o elemento da div pelo ID
-  var div = document.getElementById(idDaDiv);
-
-  // Cria uma nova área de texto temporária
-  var areaDeTextoTemporaria = document.createElement('textarea');
-
-  // Define o valor da área de texto para o texto da div
-  areaDeTextoTemporaria.value = div.textContent;
-
-  // Adiciona a área de texto ao corpo do documento
-  document.body.appendChild(areaDeTextoTemporaria);
-
-  // Seleciona o texto na área de texto
-  areaDeTextoTemporaria.select();
-
-  // Copia o texto para o clipboard
-  document.execCommand('copy');
-
-  // Remove a área de texto temporária do corpo do documento
-  document.body.removeChild(areaDeTextoTemporaria);
+  const textoParaCopiar = document.getElementById(idDaDiv).textContent.trim();
+  navigator.clipboard.writeText(textoParaCopiar)
+    .then(() => {
+      //console.log('Texto copiado com sucesso!');
+    })
+    .catch(err => {
+      //console.error('Erro ao copiar o texto: ', err);
+    });
 }
-
 
 // ---------- Fechar Modal ---------- //
 

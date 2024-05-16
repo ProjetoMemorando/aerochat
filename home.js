@@ -343,6 +343,38 @@ function abrirModal(value) {
 
       break;
 
+  // Card 9
+    case 'novo_script':
+      x.style.display = "flex";
+      y.style.display = "block";
+
+      // ----- Insere novas divs com os textos ----- //
+      for(let i = 0; i < novo_script.length; i++) {
+
+        // ----- Cria a div onde vai ficar os textos ----- //
+        let divText = document.querySelector('.text_longo');
+        let novaDiv = document.createElement('div');
+      
+        novaDiv.setAttribute('class','texto');
+        novaDiv.setAttribute('id',`novo_script${i}`);
+        novaDiv.textContent = novo_script[i];
+        divText.appendChild(novaDiv);
+        
+        // ----- Cria o input que será o botão ----- //
+        let novoInput = document.createElement('input');
+      
+        novoInput.setAttribute('class','btn-copiar');
+        novoInput.setAttribute('id',`btn-copiar-novo_script${i}`);
+        novoInput.setAttribute('type','button');
+        novoInput.setAttribute('value','Copiar');
+        novoInput.setAttribute('onclick',`copiarTexto('novo_script${i}')`);
+      
+        // Adiciona o botão à div que acabou de ser criada
+        novaDiv.appendChild(novoInput);
+      }
+
+      break;
+
   };
 
 };

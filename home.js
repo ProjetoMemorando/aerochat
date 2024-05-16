@@ -3,7 +3,6 @@
 let script_inicial = [`Olá, meu nome é XXXX, seja bem-vindo ao atendimento da GOL Linhas Aéreas, é sempre bom ter você por aqui! Seu ticket de atendimento é [Número do Ticket], como posso ajudar você hoje?`];
 
 let retorno_cliente = [
-  `Olá mundo`,
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
   `Entendi sua necessidade, antes de prosseguirmos, poderia confirmar os dados da sua reserva? Preciso do localizador dos trechos, datas e nomes dos passageiros, por favor.`,
   `Para iniciarmos o atendimento peço por favor, que informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
@@ -18,12 +17,14 @@ let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, c
   `Por favor, lembre-se de manter o chat ativo para evitar desconexões. Estou aqui para ajudar, então por favor responda para que possamos continuar.`
 ]
 
+
 let pesquisa_de_satisfacao = [
   `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe sua experiência conosco. Agradecemos sua avaliação.`,
   `Sua opinião sobre o atendimento GOL é crucial para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. Seu feedback é muito apreciado.`,
   `Valorizamos sua opinião sobre o atendimento GOL. Por favor, tire um momento para nos fornece seu feedback. Sua avaliação é fundamental para nós.`,
   `Sua avaliação do atendimento GOL é importante para nós. Por favor, tire um momento para nos contar sobre sua experiência. Agradecemos seu feedback e sua contribuição para melhorarmos.`
 ]
+
 
 let ausencia_do_cliente = [
   `Peço por gentilizar que aguarde enquanto analiso em sistema. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação e necessitará entrar em contato novamente para conclusão da sua solicitação.`,
@@ -46,6 +47,10 @@ let acordo_de_esperanca = [
   `Aguarde só mais um momento, por favor.`,
   `Estou quase lá! Mais um momento, por gentileza.`,
   `Peço desculpas pelo atraso. Estou verificando o mais rápido possível.`
+]
+
+let novo_script [
+  `Novo Script`
 ]
 
 let = encerramento_falta_de_comunicacao = [

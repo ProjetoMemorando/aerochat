@@ -3,6 +3,7 @@
 let script_inicial = [`Olá, meu nome é XXXX, seja bem-vindo ao atendimento da GOL Linhas Aéreas, é sempre bom ter você por aqui! Seu ticket de atendimento é [Número do Ticket], como posso ajudar você hoje?`];
 
 let retorno_cliente = [
+  `Olá mundo`,
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
   `Entendi sua necessidade, antes de prosseguirmos, poderia confirmar os dados da sua reserva? Preciso do localizador dos trechos, datas e nomes dos passageiros, por favor.`,
   `Para iniciarmos o atendimento peço por favor, que informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,

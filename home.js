@@ -49,15 +49,15 @@ let acordo_de_esperanca = [
   `Peço desculpas pelo atraso. Estou verificando o mais rápido possível.`
 ]
 
-let novo_script [
-  `Novo Script`
-]
-
 let = encerramento_falta_de_comunicacao = [
   `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento.`,
   `Infelizmente, devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, não hesite em nos contatar novamente. Estamos aqui para ajudar.`,
   `Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento.`,
   `Por falta de interação, este chat será encerrado. Se precisar de assistência adicional, sinta-se à vontade para iniciar um novo atendimento. Agradecemos sua compreensão. A GOL Linhas Aéreas agradece seu contato!`
+]
+
+let novo_script [
+  `Novo Script`
 ]
 
 // ---------- ABRIR MODAL ---------- //

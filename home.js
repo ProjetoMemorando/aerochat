@@ -1,11 +1,11 @@
 // ---------- TEXTOS MODAL ---------- //
 
-let script_inicial = [`Olá, meu nome é XXXX, seja bem-vindo ao atendimento da GOL Linhas Aéreas, é sempre bom ter você por aqui! Seu ticket de atendimento é [Número do Ticket], como posso ajudar você hoje?`];
+let script_inicial = [`Olá, meu nome é XXXX, seja bem-vindo ao atendimento da GOL Linhas Aéreas ✈ 😊, é sempre bom ter você por aqui! Seu ticket de atendimento é [Número do Ticket], como posso ajudar você hoje?`];
 
 let retorno_cliente = [
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
   `Entendi sua necessidade, antes de prosseguirmos, poderia confirmar os dados da sua reserva? Preciso do localizador dos trechos, datas e nomes dos passageiros, por favor.`,
-  `Para iniciarmos o atendimento peço por favor, que informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
+  `Para iniciarmos o atendimento peço por favor, que informe os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
   `Para darmos início ao atendimento, seria ótimo se você pudesse compartilhar os detalhes da sua reserva, preciso do localizador, dos trechos, datas e nomes dos passageiros. Aguardo suas informações para seguir adiante.`
 ]
 
@@ -32,10 +32,9 @@ let ausencia_do_cliente = [
 ]
 
 let agradecimento = [
-  `Agradeço por sua paciência. Peço desculpas pelo tempo de espera`,
-  `Muito obrigada por sua paciência e compreensão enquanto resolvemos essa questão.`,
+  `Muito obrigada por sua paciência e compreensão enquanto analisávamos a sua solicitação.`,
   `Agradecemos por sua paciência. Peço desculpas pelo tempo de espera.`,
-  `Agradecemos sinceramente por sua paciência. Pedimos desculpas pelo tempo que você teve que esperar.`,
+  `Muito obrigada por aguardar. Pedimos desculpas pela demora.`,
   `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.`
 ]
 
@@ -51,7 +50,7 @@ let acordo_de_esperanca = [
 
 let = encerramento_falta_de_comunicacao = [
   `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento.`,
-  `Infelizmente, devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, não hesite em nos contatar novamente. Estamos aqui para ajudar.`,
+  `Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, não hesite em nos contatar novamente. Estamos aqui para ajudar.`,
   `Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento.`,
   `Por falta de interação, este chat será encerrado. Se precisar de assistência adicional, sinta-se à vontade para iniciar um novo atendimento. Agradecemos sua compreensão. A GOL Linhas Aéreas agradece seu contato!`
 ]

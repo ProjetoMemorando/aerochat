@@ -38,7 +38,7 @@ let agradecimento = [
   `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.`
 ]
 
-let acordo_de_esperanca = [
+let acordo_de_espera = [
   `⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele.
   Utilize o script abaixo para renovar o acordo de espera: ⚠`,
   `Só mais um momento por favor.`,
@@ -53,10 +53,6 @@ let = encerramento_falta_de_comunicacao = [
   `Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, não hesite em nos contatar novamente. Estamos aqui para ajudar.`,
   `Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento.`,
   `Por falta de interação, este chat será encerrado. Se precisar de assistência adicional, sinta-se à vontade para iniciar um novo atendimento. Agradecemos sua compreensão. A GOL Linhas Aéreas agradece seu contato!`
-]
-
-let novo_script [
-  `Novo Script`
 ]
 
 // ---------- ABRIR MODAL ---------- //
@@ -271,12 +267,12 @@ function abrirModal(value) {
       break;
 
     // Card 7
-    case 'acordo_de_esperanca':
+    case 'acordo_de_espera':
       x.style.display = "flex";
       y.style.display = "block";
 
       // ----- Insere novas divs com os textos ----- //
-      for(let i = 1; i < acordo_de_esperanca.length; i++) {
+      for(let i = 1; i < acordo_de_espera.length; i++) {
 
         // ----- Cria a div onde vai ficar os textos ----- //
         let divText = document.querySelector('.text_longo');
@@ -285,8 +281,8 @@ function abrirModal(value) {
         let novaDivAviso = document.createElement('div');
 
         novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`acordo_de_esperanca${i}`);
-        novaDiv.textContent = acordo_de_esperanca[i];
+        novaDiv.setAttribute('id',`acordo_de_espera${i}`);
+        novaDiv.textContent = acordo_de_espera[i];
         divText.appendChild(novaDiv);
         
         // let divTextAlerta = document.querySelector('.base-fecharModal');
@@ -299,10 +295,10 @@ function abrirModal(value) {
         let novoInput = document.createElement('input');
       
         novoInput.setAttribute('class','btn-copiar');
-        novoInput.setAttribute('id',`btn-copiar-acordo_de_esperanca${i}`);
+        novoInput.setAttribute('id',`btn-copiar-acordo_de_espera${i}`);
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('acordo_de_esperanca${i}')`);
+        novoInput.setAttribute('onclick',`copiarTexto('acordo_de_espera${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);
@@ -335,38 +331,6 @@ function abrirModal(value) {
         novoInput.setAttribute('type','button');
         novoInput.setAttribute('value','Copiar');
         novoInput.setAttribute('onclick',`copiarTexto('encerramento_falta_de_comunicacao${i}')`);
-      
-        // Adiciona o botão à div que acabou de ser criada
-        novaDiv.appendChild(novoInput);
-      }
-
-      break;
-
-  // Card 9
-    case 'novo_script':
-      x.style.display = "flex";
-      y.style.display = "block";
-
-      // ----- Insere novas divs com os textos ----- //
-      for(let i = 0; i < novo_script.length; i++) {
-
-        // ----- Cria a div onde vai ficar os textos ----- //
-        let divText = document.querySelector('.text_longo');
-        let novaDiv = document.createElement('div');
-      
-        novaDiv.setAttribute('class','texto');
-        novaDiv.setAttribute('id',`novo_script${i}`);
-        novaDiv.textContent = novo_script[i];
-        divText.appendChild(novaDiv);
-        
-        // ----- Cria o input que será o botão ----- //
-        let novoInput = document.createElement('input');
-      
-        novoInput.setAttribute('class','btn-copiar');
-        novoInput.setAttribute('id',`btn-copiar-novo_script${i}`);
-        novoInput.setAttribute('type','button');
-        novoInput.setAttribute('value','Copiar');
-        novoInput.setAttribute('onclick',`copiarTexto('novo_script${i}')`);
       
         // Adiciona o botão à div que acabou de ser criada
         novaDiv.appendChild(novoInput);

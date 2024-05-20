@@ -19,10 +19,10 @@ let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, c
 
 
 let pesquisa_de_satisfacao = [
-  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe sua experiência conosco. Agradecemos sua avaliação.`,
-  `Sua opinião sobre o atendimento GOL é crucial para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. Seu feedback é muito apreciado.`,
-  `Valorizamos sua opinião sobre o atendimento GOL. Por favor, tire um momento para nos fornece seu feedback. Sua avaliação é fundamental para nós.`,
-  `Sua avaliação do atendimento GOL é importante para nós. Por favor, tire um momento para nos contar sobre sua experiência. Agradecemos seu feedback e sua contribuição para melhorarmos.`
+  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe sua experiência conosco. Agradecemos sua avaliação. ✈️💖😊💬`,
+  `Sua opinião sobre o atendimento GOL é crucial para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. Seu feedback é muito apreciado. 🙏✨💖✈️`,
+  `Valorizamos sua opinião sobre o atendimento GOL. Por favor, tire um momento para nos fornecer seu feedback. Sua avaliação é fundamental para nós. 💬💖✈️✨`,
+  `Sua avaliação do atendimento GOL é importante para nós. Por favor, tire um momento para nos contar sobre sua experiência. Agradecemos seu feedback e sua contribuição para melhorarmos. 💖🌟✈️😊`
 ]
 
 
@@ -32,10 +32,10 @@ let ausencia_do_cliente = [
 ]
 
 let agradecimento = [
-  `Muito obrigada por sua paciência e compreensão enquanto analisávamos a sua solicitação.`,
-  `Agradecemos por sua paciência. Peço desculpas pelo tempo de espera.`,
-  `Muito obrigada por aguardar. Pedimos desculpas pela demora.`,
-  `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.`
+  `Muito obrigada pela sua paciência e compreensão enquanto analisávamos a sua solicitação. 😊`,
+  `Agradecemos por sua paciência e pedimos desculpas pelo tempo de espera. 🙏`,
+  `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️`,
+  `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.🙏`
 ]
 
 let acordo_de_espera = [

@@ -32,10 +32,10 @@ let ausencia_do_cliente = [
 ]
 
 let agradecimento = [
-  `Muito obrigada pela sua paciência e compreensão enquanto analisávamos a sua solicitação. 😊`,
-  `Agradecemos por sua paciência e pedimos desculpas pelo tempo de espera. 🙏`,
-  `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️`,
-  `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.🙏`
+  `Muito obrigada pela sua paciência e compreensão enquanto analisávamos a sua solicitação. 😊✈💬`,
+  `Agradecemos por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
+  `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬`,
+  `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.🙏💖✈`
 ]
 
 let acordo_de_espera = [

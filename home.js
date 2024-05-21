@@ -1,6 +1,11 @@
 // ---------- TEXTOS MODAL ---------- //
 
-let script_inicial = [`Olá, meu nome é XXXX, seja bem-vindo ao atendimento da GOL Linhas Aéreas ✈ 😊, é sempre bom ter você por aqui! Seu ticket de atendimento é [Número do Ticket], como posso ajudar você hoje?`];
+let script_inicial = [`Olá, [Nome do cliente].
+Seja bem-vinda a GOL linhas aéreas! ✈ 😊
+Meu nome é [Seu nome], estou à disposição para te auxiliar. 
+Gostaria de iniciar informando o protocolo que foi gerado para este atendimento: XXXXX. 
+Agora que seu cartão de embarque já foi apresentado, daremos início à decolagem.
+Como posso te ajudar?`];
 
 let retorno_cliente = [
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,

@@ -16,10 +16,10 @@ let retorno_cliente = [
 
 let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 01 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠
 `,
-  `Peço por gentileza, que mantenha o contato ativo, para que a conexão não se interrompa.`,
-  `Preciso que responda para o atendimento não encerrar por falta de comunicação.`,
-  `Olá, [nome do cliente] você está conectado ao atendimento Preciso que você retorne, pois nosso sistema está programado para ser encerrado automaticamente quando não há troca de mensagens.`,
-  `Por favor, lembre-se de manter o chat ativo para evitar desconexões. Estou aqui para ajudar, então por favor responda para que possamos continuar.`
+  `(Nome do cliente), você está por aqui? Como posso ajudá-lo?`,
+  `Se estiver online, peço que se comunique, caso contrário o atendimento será finalizado.`,
+  `Olá, [nome do cliente] ainda está conectado? Preciso que você retorne, pois nosso sistema está programado para ser encerrado automaticamente quando não há troca de mensagens.`,
+  `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato!`
 ]
 
 
@@ -32,8 +32,8 @@ let pesquisa_de_satisfacao = [
 
 
 let ausencia_do_cliente = [
-  `Peço por gentilizar que aguarde enquanto analiso em sistema. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação e necessitará entrar em contato novamente para conclusão da sua solicitação.`,
-  `Por favor, aguarde um momento enquanto verifico as informações em nosso sistema. É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão, o que exigiria que você entre em contato novamente para concluir sua solicitação. Agradeço pela compreensão.`
+  `Peço por gentilizar que aguarde enquanto analiso sua solicitação. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação e será necessário entrar em contato novamente. Precisamos interagir de 03 em 03 minutos no máximo.`,
+  `Por favor, aguarde um momento enquanto verifico as informações em nosso sistema. É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir de 03 em 03 minutos no máximo.`
 ]
 
 let agradecimento = [
@@ -46,7 +46,7 @@ let agradecimento = [
 let acordo_de_espera = [
   `⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele.
   Utilize o script abaixo para renovar o acordo de espera: ⚠`,
-  `Só mais um momento por favor.`,
+  `[Nome do cliente], vou me ausentar, para verificar seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.`,
   `Estou quase terminando. Por favor, aguarde mais um instante.`,
   `Aguarde só mais um momento, por favor.`,
   `Estou quase lá! Mais um momento, por gentileza.`,

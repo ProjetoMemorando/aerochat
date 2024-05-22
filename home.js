@@ -40,7 +40,7 @@ let agradecimento = [
   `[Nome do cliente], agradeço por ter aguardo enquanto analisávamos sua solicitação. 😊✈💬`,
   `[Nome do cliente], agradeço por ter aguardado e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
   `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬`,
-  `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.🙏💖✈`
+  `[Nome do cliente], muito obrigada por aguardar, agradeço sua compreensão. 🙏💖✈`
 ]
 
 let acordo_de_espera = [

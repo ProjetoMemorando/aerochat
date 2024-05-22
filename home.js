@@ -9,9 +9,9 @@ Como posso te ajudar?`];
 
 let retorno_cliente = [
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
-  `Entendi sua necessidade, antes de prosseguirmos, poderia confirmar os dados da sua reserva? Preciso do localizador dos trechos, datas e nomes dos passageiros, por favor.`,
-  `Para iniciarmos o atendimento peço por favor, que informe os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
-  `Para darmos início ao atendimento, seria ótimo se você pudesse compartilhar os detalhes da sua reserva, preciso do localizador, dos trechos, datas e nomes dos passageiros. Aguardo suas informações para seguir adiante.`
+  `Entendi sua necessidade, antes de prosseguirmos, por gentilizar confirmar os dados da sua reserva. Preciso do localizador dos trechos, datas e nomes dos passageiros.`,
+  `Para darmos continuidade ao atendimento peço por favor, que informe os dados da reserva: localizador, trechos, datas e nomes dos passageiros.`,
+  `Para seguirmos com o atendimento preciso que compartilhe os detalhes da sua reserva: localizador, trechos, datas e nomes dos passageiros.`
 ]
 
 let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 01 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠
@@ -47,10 +47,10 @@ let acordo_de_espera = [
   `⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele.
   Utilize o script abaixo para renovar o acordo de espera: ⚠`,
   `[Nome do cliente], vou me ausentar, para verificar seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.`,
-  `Estou quase terminando. Por favor, aguarde mais um instante.`,
+  `[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por gentileza`,
   `Aguarde só mais um momento, por favor.`,
   `Estou quase lá! Mais um momento, por gentileza.`,
-  `Peço desculpas pelo atraso. Estou verificando o mais rápido possível.`
+  `Peço desculpas pela demora. Estou verificando o mais rápido possível.`
 ]
 
 let = encerramento_falta_de_comunicacao = [

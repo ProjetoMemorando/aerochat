@@ -25,9 +25,9 @@ let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, c
 
 let pesquisa_de_satisfacao = [
   `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe sua experiência conosco. Agradecemos sua avaliação. ✈️💖😊💬`,
-  `Sua opinião sobre o atendimento GOL é crucial para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. Seu feedback é muito apreciado. 🙏✨💖✈️`,
-  `Valorizamos sua opinião sobre o atendimento GOL. Por favor, tire um momento para nos fornecer seu feedback. Sua avaliação é fundamental para nós. 💬💖✈️✨`,
-  `Sua avaliação do atendimento GOL é importante para nós. Por favor, tire um momento para nos contar sobre sua experiência. Agradecemos seu feedback e sua contribuição para melhorarmos. 💖🌟✈️😊`
+  `Sua opinião sobre o atendimento GOL é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 🙏✨💖✈️`,
+  `Valorizamos sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós.  💬💖✈️✨`,
+  `Sua avaliação do atendimento GOL é importante para nós. Por favor, deixe nos saber como foi sua experencia nesse atendimento através da nossa pesquisa. 💖🌟✈️😊`
 ]
 
 
@@ -37,8 +37,8 @@ let ausencia_do_cliente = [
 ]
 
 let agradecimento = [
-  `Muito obrigada pela sua paciência e compreensão enquanto analisávamos a sua solicitação. 😊✈💬`,
-  `Agradecemos por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
+  `[Nome do cliente], agradeço por ter aguardo enquanto analisávamos sua solicitação. 😊✈💬`,
+  `[Nome do cliente], agradeço por ter aguardado e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
   `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬`,
   `Muito obrigada por esperar conosco. Pedimos desculpas pelo atraso e agradecemos sua compreensão.🙏💖✈`
 ]
@@ -54,10 +54,10 @@ let acordo_de_espera = [
 ]
 
 let = encerramento_falta_de_comunicacao = [
-  `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento.`,
-  `Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, não hesite em nos contatar novamente. Estamos aqui para ajudar.`,
-  `Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento.`,
-  `Por falta de interação, este chat será encerrado. Se precisar de assistência adicional, sinta-se à vontade para iniciar um novo atendimento. Agradecemos sua compreensão. A GOL Linhas Aéreas agradece seu contato!`
+  `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬`,
+  `Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A GOL Linhas Aéreas agradece seu contato! ✈️💬`,
+  `Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬`,
+  `Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬`
 ]
 
 // ---------- ABRIR MODAL ---------- //

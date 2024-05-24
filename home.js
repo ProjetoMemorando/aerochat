@@ -1,56 +1,52 @@
 // ---------- TEXTOS MODAL ---------- //
 
-let script_inicial = [`Olá, [Nome do cliente].
-Seja bem-vinda a GOL linhas aéreas! ✈ 😊
-Meu nome é [Seu nome], estou à disposição para te auxiliar. 
-Gostaria de iniciar informando o protocolo que foi gerado para este atendimento: XXXXX. 
-Agora que seu cartão de embarque já foi apresentado, daremos início à decolagem.
-Como posso te ajudar?`];
+let script_inicial = [`Olá, [Nome do cliente]. Seja bem-vindo (a) à GOL Linhas Aéreas! ✈ 😊 Meu nome é [Seu nome], estou à disposição para te auxiliar. 
+Gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. 
+Agora que seu cartão de embarque já foi apresentado, daremos início à decolagem. Como posso te ajudar?`];
 
 let retorno_cliente = [
   `Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.`,
-  `Entendi sua necessidade, antes de prosseguirmos, por gentilizar confirmar os dados da sua reserva. Preciso do localizador dos trechos, datas e nomes dos passageiros.`,
-  `Para darmos continuidade ao atendimento peço por favor, que informe os dados da reserva: localizador, trechos, datas e nomes dos passageiros.`,
+  `Entendi a sua necessidade. Antes de prosseguirmos, por gentileza, confirme os dados da sua reserva. Preciso do localizador, dos trechos, datas e nomes dos passageiros.`,
+  `Para darmos continuidade ao atendimento peço, por favor, que informe os dados da reserva: localizador, trechos, datas e nomes dos passageiros.`,
   `Para seguirmos com o atendimento preciso que compartilhe os detalhes da sua reserva: localizador, trechos, datas e nomes dos passageiros.`
 ]
 
 let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 01 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠
 `,
   `(Nome do cliente), você está por aqui? Como posso ajudá-lo?`,
-  `Se estiver online, peço que se comunique, caso contrário o atendimento será finalizado.`,
-  `Olá, [nome do cliente] ainda está conectado? Preciso que você retorne, pois nosso sistema está programado para ser encerrado automaticamente quando não há troca de mensagens.`,
+  `Olá, [nome do cliente] ainda está conectado? Preciso que você se comunique comigo, ou o atendimento poderá ser encerrado, automaticamente, por falta de interação.`,
   `Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato!`
 ]
 
 
 let pesquisa_de_satisfacao = [
-  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe sua experiência conosco. Agradecemos sua avaliação. ✈️💖😊💬`,
+  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💖😊💬`,
   `Sua opinião sobre o atendimento GOL é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 🙏✨💖✈️`,
-  `Valorizamos sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós.  💬💖✈️✨`,
-  `Sua avaliação do atendimento GOL é importante para nós. Por favor, deixe nos saber como foi sua experencia nesse atendimento através da nossa pesquisa. 💖🌟✈️😊`
+  `Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬💖✈️✨`,
+  `A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experência conosco através da nossa pesquisa. 💖🌟✈️😊`
 ]
 
 
 let ausencia_do_cliente = [
-  `Peço por gentilizar que aguarde enquanto analiso sua solicitação. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação e será necessário entrar em contato novamente. Precisamos interagir de 03 em 03 minutos no máximo.`,
-  `Por favor, aguarde um momento enquanto verifico as informações em nosso sistema. É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir de 03 em 03 minutos no máximo.`
+  `Peço, por gentileza, que aguarde enquanto analiso a sua solicitação. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?`,
+  `Por favor, aguarde um momento enquanto verifico as informações em nosso sistema. É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir a cada 03 minutos, no máximo. Tudo bem?`
 ]
 
 let agradecimento = [
-  `[Nome do cliente], agradeço por ter aguardo enquanto analisávamos sua solicitação. 😊✈💬`,
-  `[Nome do cliente], agradeço por ter aguardado e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
+  `[Nome do cliente], agradeço por ter aguardado enquanto eu analisava a sua solicitação. 😊✈💬`,
+  `[Nome do cliente], Agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬`,
   `Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬`,
-  `[Nome do cliente], muito obrigada por aguardar, agradeço sua compreensão. 🙏💖✈`
+  `[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 🙏💖✈`
 ]
 
 let acordo_de_espera = [
   `⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele.
   Utilize o script abaixo para renovar o acordo de espera: ⚠`,
-  `[Nome do cliente], vou me ausentar, para verificar seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.`,
-  `[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por gentileza`,
+  `[Nome do cliente], vou me ausentar para verificar o seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.`,
+  `[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por favor.`,
   `Aguarde só mais um momento, por favor.`,
   `Estou quase lá! Mais um momento, por gentileza.`,
-  `Peço desculpas pela demora. Estou verificando o mais rápido possível.`
+  `Peço desculpas pela espera. Estou verificando o mais rápido possível.`
 ]
 
 let = encerramento_falta_de_comunicacao = [

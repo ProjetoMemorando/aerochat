@@ -20,16 +20,16 @@ let aviso_falta_de_interacao = [`⚠ Caso perceba que o Cliente não responde, c
 
 
 let pesquisa_de_satisfacao = [
-  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💖😊💬`,
-  `Sua opinião sobre o atendimento GOL é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 🙏✨💖✈️`,
-  `Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬💖✈️✨`,
-  `A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experência conosco através da nossa pesquisa. 💖🌟✈️😊`
+  `Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💬`,
+  `Sua opinião sobre o atendimento GOL é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 💖✈️`,
+  `Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️`,
+  `A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experência conosco através da nossa pesquisa. 💖✈️`
 ]
 
 
 let ausencia_do_cliente = [
-  `Peço, por gentileza, que aguarde enquanto analiso a sua solicitação. Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?`,
-  `Por favor, aguarde um momento enquanto verifico as informações em nosso sistema. É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir a cada 03 minutos, no máximo. Tudo bem?`
+  `Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?`,
+  `É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir a cada 03 minutos, no máximo. Tudo bem?`
 ]
 
 let agradecimento = [

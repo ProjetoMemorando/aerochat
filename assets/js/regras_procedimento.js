@@ -2,7 +2,38 @@
 // LISTA DE SCRIPTS
 let modelos_scripts = {
     dog_cat_cabine: [
-        'Dog & Cat na Cabine (Em desenvolvimento)'
+        '(Nome do cliente), para quem deseja viajar com seu pet pela GOL, é importante estar ciente de algumas diretrizes específicas. Antes de seguirmos, gostaria de fazer algumas perguntas para entender melhor sua situação, isso nos ajudará a oferecer as melhores orientações para sua viagem.
+Seu voo é nacional ou internacional?
+O voo é operado pela GOL?
+Você levará um cachorro ou um gato?
+Seu animal é macho ou fêmea?
+Qual é a raça do seu animal?
+Qual é a idade do seu animal?
+Qual é o peso do seu animal junto com a caixa de transporte?
+',
+    O serviço Dog&Cat Cabine (Nacional) permite que cachorros ou gatos de até 10 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
+
+ 	O animal acompanhará seu dono em todos os voos até o destino final.
+ 	Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet.
+ 	Passageiro é responsável em providenciar todos os documentos necessários.
+
+ 	Dimensões da caixa de transporte:
+Rígida (fibra plástica, plástico resistente): até 22 cm de altura, 32 cm de largura e 43 cm de profundidade.
+Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 cm de profundidade.
+ 	Valores dos serviços:
+Voos Nacionais:
+Fora da janela de check-in (+48h do voo): R$ 250.
+Dentro da janela de check-in (-48h do voo): R$ 300.
+Voos Internacionais:
+Fora da janela de check-in (+48h do voo): USD 170.
+Dentro da janela de check-in (-48h do voo): USD 180.
+ 	Documentos necessários para voos nacionais:
+Atestado Sanitário: Deve constar que o animal está em boas condições de saúde e válido por 10 dias após a data de emissão.
+Carteira de Vacinação: Deve incluir a vacina antirrábica com o nome do laboratório, tipo de vacina e número da ampola utilizada. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo.
+Passaporte para Trânsito de Cães e Gatos (opcional): O proprietário deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização.
+Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!'
+
+    
     ],
 
     dog_cat_espaco: [

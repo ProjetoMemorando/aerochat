@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --color_1: #FE7100;
+    --color_2: #FF8303;
+    --color_3: #FFBC32;
+}
+
+a {
+    color: #FFF;
+}
+
+.container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-height: 600px;
+    background: rgb(255,112,32);
+    background: linear-gradient(135deg, rgba(255,112,32,1) 0%, rgba(255,131,3,1) 100%);
+    z-index: 1;
+}
+
+.container2 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/bg-inicial.png');
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+}
+
+.row-home {
+    position: relative;
+    width: 100%;
+    height: 15%;
+    max-height: 6rem;
+    top: 3rem;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1%;
+}
+
+.btn-home {
+    width: fit-content;
+    height: 60%;
+    padding: 0 7px;
+    border-radius: 40px;
+    background: rgb(255,188,50);
+    background: linear-gradient(90deg, rgba(255,188,50,1) 0%, rgba(255,131,3,1) 100%);
+    background-size: 200% 200%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 3px #000;
+    animation: animaIndex 2s ease infinite;
+}
+
+@keyframes animaIndex {
+    0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+}
+
+.span-btn-home {
+    width: fit-content;
+    height: 85%;
+    padding: 20px;
+    border: 2px #fff solid;
+    border-radius: 40px;
+    display: flex; 
+    word-break:break-all;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-shadow: 0px 0px 3px #000;
+    gap: 5px;
+}
+
+.icon-next {
+    position: relative;
+    height: 2rem;
+    right: -5px;
+    filter: drop-shadow(0px 0px 1px #000);
+}

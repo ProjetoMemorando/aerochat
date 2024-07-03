@@ -187,7 +187,7 @@ Lembre-se de que, se não for elegível para o FREMEC, seu embarque não será n
         
     ],
     
-    obagagem_mao: [
+    bagagem_mao: [
         `Bagagem de mão todos os passageiros têm direito a levar, sem custo adicional, uma bagagem de mão e um item pessoal. O item pessoal pode ser uma bolsa, um notebook, um tablet ou uma sacola com produtos comprados no free shop.
 Detalhes da bagagem de mão:
  	Peso permitido: até 10 kg;
@@ -213,7 +213,7 @@ Essas medidas garantem que sua bagagem de mão se encaixe perfeitamente nos comp
  	-Voos para os EUA e Punta Cana (PUJ): R$ 478,00.
 Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
 `
-    ],
+    ]
 
     
 }

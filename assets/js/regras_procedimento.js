@@ -91,7 +91,7 @@ Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 c
     ],
 
     regra_tarifa: [
-        'Regra da tarifa (Em desenvolvimento)'
+        `Regra da tarifa (Em desenvolvimento)`
     ],
     
     medif_fremec: [
@@ -107,8 +107,7 @@ Todas as perguntas devem ser respondidas corretamente e com letra legível. Deve
 Documentos assinados digitalmente pelo responsável médico do passageiro serão aceitos, desde que validados através da plataforma https://validar.iti.gov.br/. A validação é gratuita e essencial para o aceite da documentação.
 
 ✈︎Viagem com acompanhante: Se necessário, a GOL oferece ao acompanhante um desconto de 80% na passagem aérea. O acompanhante deve ser maior de 18 anos e capaz de oferecer assistência ao passageiro com necessidade especial durante todo o voo. O desconto será aplicado somente após o preenchimento e aprovação dos formulários MEDIF.
-`
-,
+`,
 `O Cartão FREMEC é um documento médico da IATA desenvolvido para simplificar viagens de clientes regulares com necessidades especiais de caráter permanente, não grave e estável.
 O cadastro FREMEC é indicado para Clientes com:
     ✈︎Idade superior a 2 (dois) anos;
@@ -133,7 +132,7 @@ Lembre-se de que, se não for elegível para o FREMEC, seu embarque não será n
     
     objeto_esquecido: [
 `O prazo para tratativas das buscas é de 7 dias corridos. Entraremos em contato caso o objeto seja encontrado. Caso não seja localizado, enviaremos um e-mail informando sobre a situação.`
-        ,
+    ,
 `(Nome do cliente), para que possamos dar continuidade à sua solicitação e garantir que tudo seja feito da melhor forma possível, preciso coletar algumas informações:
  ✈︎Localizador: 
  ✈︎Em que trecho perdeu?
@@ -146,8 +145,7 @@ Lembre-se de que, se não for elegível para o FREMEC, seu embarque não será n
  ✈︎Nome do Proprietário:
  ✈︎Número do Voo:
  ✈︎Data do Voo:
- ✈︎Descreva com detalhes ou características o objeto esquecido:
-`
+ ✈︎Descreva com detalhes ou características o objeto esquecido:`
         
     ],
     

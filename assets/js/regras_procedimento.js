@@ -17,8 +17,9 @@ let modelos_scripts = {
         'Regra da tarifa (Em desenvolvimento)'
     ],
     
-    beneficio_tarifa: [
-        'Benefício da tarifa (Em desenvolvimento)'
+    medif_fremec: [
+        'medif_fremec a (Em desenvolvimento)'
+        
     ],
 
 }

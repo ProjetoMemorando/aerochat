@@ -77,8 +77,16 @@ function modal(script) {
 
 }
 
+function limparModal() {
+    let row_modal = document.querySelectorAll('.row_modal');
+    row_modal.forEach((row) => {
+        row.remove(row_modal);
+        //console.log('Modal limpo');
+    })
+}
 
 function fecharModal() {
+    limparModal()
     document.querySelector('.baseModal').style.display = 'none';
 }
 

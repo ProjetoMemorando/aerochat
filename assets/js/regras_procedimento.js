@@ -20,24 +20,48 @@ Qual é o peso do seu animal junto com a caixa de transporte?`,
 Rígida (fibra plástica, plástico resistente): até 22 cm de altura, 32 cm de largura e 43 cm de profundidade.
 Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 cm de profundidade.
  	Valores dos serviços:
-<strong>Voos Nacionais:</strong>
+Voos Nacionais:
 Fora da janela de check-in (+48h do voo): R$ 250.
 Dentro da janela de check-in (-48h do voo): R$ 300.
-<strong>Voos Internacionais:</strong>
+Voos Internacionais:
 Fora da janela de check-in (+48h do voo): USD 170.
 Dentro da janela de check-in (-48h do voo): USD 180.
- <strong>Documentos necessários para voos nacionais:</strong>Atestado Sanitário: Deve constar que o animal está em boas condições de saúde e válido por 10 dias após a data de emissão.
+ Documentos necessários para voos nacionais:Atestado Sanitário: Deve constar que o animal está em boas condições de saúde e válido por 10 dias após a data de emissão.
 Carteira de Vacinação: Deve incluir a vacina antirrábica com o nome do laboratório, tipo de vacina e número da ampola utilizada. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo.
 Passaporte para Trânsito de Cães e Gatos (opcional): O proprietário deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização.
 Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!
+`,
+ ` O serviço Dog&Cat Cabine (Internacional) permite que cachorros ou gatos de até 10 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
+
+ 	✈︎O animal acompanhará seu dono em todos os voos até o destino final.
+ 	✈︎Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet.
+ 	✈︎Passageiro é responsável em providenciar todos os documentos necessários.
+  
+ ✈︎Dimensões da caixa de transporte:
+Rígida (fibra plástica, plástico resistente): até 22 cm de altura, 32 cm de largura e 43 cm de profundidade.
+Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 cm de profundidade.
+
+ ✈︎Valores dos serviços:
+ 
+✈︎Voos Nacionais:
+-Fora da janela de check-in (+48h do voo): R$ 250.
+-Dentro da janela de check-in (-48h do voo): R$ 300.
+✈︎Voos Internacionais:
+-Fora da janela de check-in (+48h do voo): USD 170.
+-Dentro da janela de check-in (-48h do voo): USD 180.
+
+✈︎Documentos necessários para voos nacionais:
+-Atestado Sanitário: O atestado médico veterinário deve constar que o animal está em boas condições de saúde e deve ser emitido até 10 dias antes da data de embarque.
+-Carteira de Vacinação: Deve incluir a vacina antirrábica, obrigatória para animais a partir do 3º mês de idade. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo.
+-Certificado Veterinário Internacional (CVI ou CZI): Certificado emitido para voo internacional, válido por 60 dias a partir da emissão.
+-Passaporte para Trânsito de Cães e Gatos (opcional): O tutor deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização. Válido por 60 dias a partir da legalização pelo Vigiagro, desde que a vacinação antirrábica esteja válida.
+-Exclusivo para voos com destino a Miami (MIA): Autorização do CDC (Centro de Controle e Prevenção de Doenças), certificado emitido exclusivamente pelo CDC para entrada de cães nos EUA através de Miami, com validade determinada pelo CDC.
 `
-
-
     
     ],
 
     dog_cat_espaco: [
-        'Dog & Cat + Espaço (Em desenvolvimento)',
+        '(Nome do cliente), o serviço DOG&CAT + ESPAÇO está suspenso por período indeterminado. Pedimos desculpas pelo transtorno.'
         
     ],
 

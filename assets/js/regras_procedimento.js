@@ -21,7 +21,21 @@ let modelos_scripts = {
         'medif_fremec a (Em desenvolvimento)'
         
     ],
-
+    
+    objeto_esquecido: [
+        'objeto_esquecido a (Em desenvolvimento)'
+        
+    ],
+    
+    obagagem_mao: [
+        'bagagem_mao a (Em desenvolvimento)'
+        
+    ],
+    declaracao_valores: [
+            'declaracao_valores (Em desenvolvimento)'
+            
+        ],
+    
 }
 
 

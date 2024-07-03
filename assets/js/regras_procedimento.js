@@ -66,7 +66,28 @@ Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 c
     ],
 
     dados_link_reembolso: [
-        'Dados do link de reembolso (Em desenvolvimento)'
+    `(Nome do cliente), para que possamos dar continuidade à sua solicitação e garantir que tudo seja feito da melhor forma possível, preciso coletar algumas informações do passageiro.
+ 	✈︎Nome do titular da conta:   
+ 	✈︎CPF do titular da conta:   
+ 	✈︎Data de Nascimento:   
+ 	✈︎Tipo de Endereço:   
+ 	✈︎Endereço:    
+ 	✈︎Número:   
+ 	✈︎CEP:    
+ 	✈︎Cidade:     
+ 	✈︎Sigla do Estado:    
+ 	✈︎Telefone:   
+ 	✈︎E-mail:   
+ 	✈︎Nome do Banco:   
+ 	✈︎Número da Agência:   
+ 	✈︎Número da Conta com Dígito:   
+ 	✈︎Tipo de Conta:   
+ 
+✈︎Bancos recomendados: Banco do Brasil; Banrisul; Bradesco; HSBC; Itaú; Santander. O prazo para o estorno do valor varia de acordo com a forma de pagamento utilizada na compra. Cada método de pagamento possui um tempo de processamento diferente, o que pode influenciar no tempo necessário para que o valor seja devolvido à sua conta.
+
+ 	-Dinheiro ou débito: A Gol tem até 7 dias corridos para reembolsar.
+ 	-Cartão de crédito: Em até 7 dias corridos a Gol reembolsa à administradora do cartão, que a depender da data de fechamento, pode levar de 30 até 60 dias para realizar o crédito do valor na fatura.
+ 	-Crédito Gol: Quando solicitado o reembolso, a Gol tem até 7 dias corridos para realizar o reembolso em conta.`
     ],
 
     regra_tarifa: [
@@ -74,21 +95,88 @@ Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 c
     ],
     
     medif_fremec: [
-        'medif_fremec a (Em desenvolvimento)'
-        
+       `O passageiro precisa encaminhar ao seu médico pessoal o formulário de informação médica (MEDIF) para que ele possa preencher e assinar, sendo necessário enviar para à GOL entre 15 dias e 72 horas antes do embarque. Após análise, nossa equipe emitirá um parecer sobre a aptidão do passageiro para viajar, onde esse documento que comprovará a condição especial da pessoa. 
+✈︎Preenchimento do MEDIF:
+O formulário MEDIF deve ser assinado pelo médico pessoal do passageiro (apenas profissionais médicos com CRM válido são aceitos; assinaturas de psicólogos, fisioterapeutas e outros profissionais não serão aceitas).
+Todas as seções devem ser completamente preenchidas para melhor análise.
+Anexos:
+    ✈︎*Anexo A:* Preenchido pelo passageiro ou seu responsável legal;
+✈︎Anexo B (Partes 1 e 2): Preenchido pelo médico do passageiro com necessidades especiais.
+Todas as perguntas devem ser respondidas corretamente e com letra legível. Deve ser marcado (X) nas opções "Sim" ou "Não". Após o preenchimento, todas as vias do formulário devem ser assinadas e carimbadas pelo médico, o documento não pode conter danos.
+✈︎Importante: Os formulários devem estar completamente preenchidos e com informações atualizadas. Nenhum campo deve ficar em branco. Envie os documentos em anexo no formato JPEG ou PDF; imagens no corpo da mensagem não serão avaliadas.
+Documentos assinados digitalmente pelo responsável médico do passageiro serão aceitos, desde que validados através da plataforma https://validar.iti.gov.br/. A validação é gratuita e essencial para o aceite da documentação.
+
+✈︎Viagem com acompanhante: Se necessário, a GOL oferece ao acompanhante um desconto de 80% na passagem aérea. O acompanhante deve ser maior de 18 anos e capaz de oferecer assistência ao passageiro com necessidade especial durante todo o voo. O desconto será aplicado somente após o preenchimento e aprovação dos formulários MEDIF.
+`
+,
+`O Cartão FREMEC é um documento médico da IATA desenvolvido para simplificar viagens de clientes regulares com necessidades especiais de caráter permanente, não grave e estável.
+O cadastro FREMEC é indicado para Clientes com:
+    ✈︎Idade superior a 2 (dois) anos;
+    ✈︎Deficiência Intelectual;
+    ✈︎Deficiência Auditiva;
+    ✈︎Deficiência Visual.
+    ✈︎Pessoas com mobilidade reduzida, em razão de deficiência permanente e estável;
+    ✈︎Documentação FREMEC: Para análise da equipe médica da GOL visando garantir a segurança do passageiro, é necessário o envio do formulário FREMEC preenchido pelo médico assistente. 
+Verifique a seguir as orientações para cada condição:
+✈Deficiência visual, intelectual, mental e/ou psicossocial: Quando o formulário FREMEC for preenchido por médico não especializado, é necessário apresentar adicionalmente um relatório, declaração, atestado ou parecer médico elaborado por um médico especialista na área correspondente (médico com RQE registrado no CRM local). Se o formulário FREMEC for preenchido por médico especialista (com RQE na respectiva área), não é necessário apresentar relatório adicional. A GOL reserva-se o direito de solicitar documentação especializada adicional caso o FREMEC preenchido por médico especialista necessite de informações complementares (por exemplo, se não fornece informações sobre a acuidade visual de uma pessoa com deficiência visual).
+✈︎Deficiência auditiva: A apresentação do formulário FREMEC é obrigatória (por médico especializado ou não), juntamente com a audiometria tonal (exame fundamental e obrigatório para determinar a existência de deficiência auditiva);
+✈︎Deficiência física: O formulário FREMEC deve ser preenchido por médico familiarizado com a patologia descrita no documento. Um relatório adicional não é obrigatório, desde que o formulário FREMEC não deixe dúvidas e esteja claro e completo. Contudo, a GOL se reserva o direito de solicitar documentação adicional caso precise de informações complementares.
+
+Retorno sobre a solicitação do cartão: Em até 48 horas sua solicitação será analisada pela equipe médica da GOL e você receberá uma resposta. Em caso de aprovação, você receberá por e-mail um documento com seu número FREMEC e poderá utilizá-lo para reservar sua passagem.
+No momento do embarque, apresente apenas seu documento com foto. Não é necessário apresentar atestado médico ou autorização.
+Lembre-se de que, se não for elegível para o FREMEC, seu embarque não será negado. Nesse caso, proceda enviando o formulário MEDIF dentro do prazo para análise.
+✈︎ FREMEC solicitação de reserva para acompanhante:  Para solicitar a reserva de acompanhante, o Formulário de Viagem FREMEC deverá ser preenchido a cada viagem. 
+✈︎ FREMEC de outras companhias aéreas: Quando o passageiro já possui o cadastro FREMEC com outra companhia aérea, não é necessário que ele faça nova solicitação. Entretanto, é necessário enviar um documento que comprove a emissão ou aprovação de cadastro, além do formulário de solicitação de viagem, com no mínimo 72h de antecedência.
+`
+
     ],
     
     objeto_esquecido: [
-        'objeto_esquecido a (Em desenvolvimento)'
+`O prazo para tratativas das buscas é de 7 dias corridos. Entraremos em contato caso o objeto seja encontrado. Caso não seja localizado, enviaremos um e-mail informando sobre a situação.`
+        ,
+`(Nome do cliente), para que possamos dar continuidade à sua solicitação e garantir que tudo seja feito da melhor forma possível, preciso coletar algumas informações:
+ ✈︎Localizador: 
+ ✈︎Em que trecho perdeu?
+ ✈︎Trecho de ida:
+ ✈︎Trecho de Conexão:
+ ✈︎Trecho de destino:
+ ✈︎Cor:
+ ✈︎Modelo/Marca:
+ ✈︎Tamanho:
+ ✈︎Nome do Proprietário:
+ ✈︎Número do Voo:
+ ✈︎Data do Voo:
+ ✈︎Descreva com detalhes ou características o objeto esquecido:
+`
         
     ],
     
     obagagem_mao: [
-        'bagagem_mao a (Em desenvolvimento)'
-        
+        `Bagagem de mão todos os passageiros têm direito a levar, sem custo adicional, uma bagagem de mão e um item pessoal. O item pessoal pode ser uma bolsa, um notebook, um tablet ou uma sacola com produtos comprados no free shop.
+Detalhes da bagagem de mão:
+ 	Peso permitido: até 10 kg;
+ 	Dimensões permitidas: 55 cm de altura, 25 cm de largura e 35 cm de comprimento.
+Essas medidas garantem que sua bagagem de mão se encaixe perfeitamente nos compartimentos da aeronave, proporcionando uma viagem mais confortável para todos
+`,
+ 	`Você pode comprar a opção de bagagem despachada tanto no momento da compra da passagem quanto posteriormente. É importante seguir as especificações de tamanho para o despacho. Sua mala deve ter, no máximo, 50 cm de largura, 80 cm de altura e 28 cm de profundidade, com um peso de até 23 kg. Se adquirir a bagagem até 48hrs antes do voo (antes da janela de check-in) terá desconto na franquia.
+
+ 	Se a bagagem ultrapassar 23 kg, será cobrado um valor por excesso de bagagem: R$ 35 por quilo para voos nacionais e R$ 50 por quilo para voos internacionais. O peso total de uma única bagagem não pode ultrapassar 45 kg para voos dentro do Brasil e 32 kg para voos internacionais. 
+
+ 	Cada bagagem despachada deve corresponde a um único volume de até 23 kg. Se esse peso for dividido em dois ou mais volumes, cada volume extra será cobrado como bagagem adicional.`
+    ,
+        `A bagagem diferenciada compreende itens frágeis e com dimensão diferenciada, como equipamentos esportivos, instrumentos musicais, televisores, monitores e semelhantes. Nestes casos, cobra-se uma taxa específica para cada tipo de objeto pelo seu despacho.
+✈︎Como classificar como bagagem diferenciada:
+ 	-A soma dos lados A+B+C não pode ultrapassar 292 cm.
+ 	-A bagagem pode ter até 292 cm, levando em consideração a soma dos lados.
+✈︎Valores da bagagem diferenciada:
+ 	-Voos domésticos: R$ 180,00;
+ 	-Voos dentro da América do Sul: R$ 352,00;
+ 	-Voos para os EUA e Punta Cana (PUJ): R$ 478,00.
+Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
+`
     ],
     declaracao_valores: [
-            'declaracao_valores (Em desenvolvimento)'
+            `em construção`
             
         ],
     

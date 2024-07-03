@@ -186,6 +186,10 @@ li:hover {
     cursor: pointer;
 }
 
+.row_modal:hover {
+    background-color: #FFF;
+}
+
 .border_success {
     width: 100%;
     height: fit-content;
@@ -198,6 +202,9 @@ li:hover {
     cursor: pointer;
 }
 
+.border_success:hover {
+    background-color: #FFF;  
+}
 
 
 
@@ -240,4 +247,3 @@ li:hover {
   *::-webkit-scrollbar-thumb:active {
     background-color: #FF8303;
   }
-  

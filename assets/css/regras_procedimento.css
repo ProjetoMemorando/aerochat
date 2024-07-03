@@ -186,6 +186,10 @@ li:hover {
     cursor: pointer;
 }
 
+.row_modal:hover {
+    background-color: #FFF;
+}
+
 .border_success {
     width: 100%;
     height: fit-content;
@@ -196,6 +200,10 @@ li:hover {
     margin: 10px 0;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.border_success:hover {
+    background-color: #FFF;  
 }
 
 

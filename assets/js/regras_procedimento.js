@@ -49,13 +49,14 @@ Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 c
 ✈︎Voos Internacionais:
 -Fora da janela de check-in (+48h do voo): USD 170.
 -Dentro da janela de check-in (-48h do voo): USD 180.
-
-✈︎Documentos necessários para voos nacionais:
+✈︎Documentos necessários para voos internacionais:
 -Atestado Sanitário: O atestado médico veterinário deve constar que o animal está em boas condições de saúde e deve ser emitido até 10 dias antes da data de embarque.
 -Carteira de Vacinação: Deve incluir a vacina antirrábica, obrigatória para animais a partir do 3º mês de idade. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo.
 -Certificado Veterinário Internacional (CVI ou CZI): Certificado emitido para voo internacional, válido por 60 dias a partir da emissão.
 -Passaporte para Trânsito de Cães e Gatos (opcional): O tutor deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização. Válido por 60 dias a partir da legalização pelo Vigiagro, desde que a vacinação antirrábica esteja válida.
 -Exclusivo para voos com destino a Miami (MIA): Autorização do CDC (Centro de Controle e Prevenção de Doenças), certificado emitido exclusivamente pelo CDC para entrada de cães nos EUA através de Miami, com validade determinada pelo CDC.
+Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!
+
 `
     
     ],

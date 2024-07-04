@@ -40,13 +40,13 @@ let modelos_scripts = {
     ],
 
     agradecimento: [
-        '[Nome do cliente], agradeço por ter aguardado enquanto eu analisava a sua solicitação. 😊✈💬',
+        '[Nome do cliente], agradeço por ter aguardado enquanto eu analisava a sua solicitação. ✈💬',
 
-        '[Nome do cliente], Agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬',
+        '[Nome do cliente], Agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈💬',
 
-        'Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬',
+        'Muito obrigada por aguardar. Pedimos desculpas pela demora. ✈️💬',
 
-        '[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 🙏💖✈'
+        '[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 🙏✈'
     ],
 
     acordo_de_espera: [

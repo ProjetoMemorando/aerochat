@@ -93,7 +93,7 @@ function titulos(value) {
 
     // LISTA DE TITULOS PARA CADA SCRIPT (SE HOUVER)
     let lista_titulos = {
-        acordo_de_espera: '⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem a ele. Utilize o script abaixo para renovar o acordo de espera: ⚠',
+        acordo_de_espera: '⚠ Em hipótese alguma você pode ficar mais de 02 minutos sem enviar mensagem o cliente. Utilize o script abaixo para renovar o acordo de espera: ⚠',
 
         aviso_falta_de_interacao: '⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 02 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠'
 

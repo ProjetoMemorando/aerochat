@@ -2,7 +2,9 @@
 // LISTA DE SCRIPTS
 let modelos_scripts = {
     script_inicial: [
-        'Olá, [Nome do cliente]. Seja bem-vindo (a) à GOL Linhas Aéreas! ✈ 😊 Meu nome é [Seu nome], estou à disposição para te auxiliar. Gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. Agora que seu cartão de embarque já foi apresentado, daremos início à decolagem. Como posso te ajudar?'
+        'Olá, seja bem-vindo(a) à GOL Linhas Aéreas! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.'
+        ,
+        `(Nome do cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. Agora que seu cartão de embarque já foi apresentado, daremos início à decolagem. Como posso te ajudar?`
     ],
 
     retorno_cliente: [

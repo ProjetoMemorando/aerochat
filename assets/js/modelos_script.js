@@ -161,7 +161,7 @@ function copiarTexto(id_element) {
 
 function border_success(id) {
 
-    let elemento = document.querySelector(`#{id}`);
+    let elemento = document.querySelector(`#${id}`);
     // Adiciona a classe para alterar a cor da borda para verde
     elemento.classList.add('border_success');
     

@@ -32,10 +32,8 @@ let modelos_scripts = {
         'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experência conosco através da nossa pesquisa. 💖✈️'
     ],
  
-    ausencia_do_cliente: [
-        'criar ',
- 
-        'criar'
+  alteracao_cadastral: [
+        'Para prosseguir com a sua solicitação é obrigatória a confirmação de todos os seguintes dados de segurança: e-mail de cadastro da conta, nome, sobrenome e endereço completo do titular da conta.'
     ],
  
     agradecimento: [

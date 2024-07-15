@@ -36,7 +36,7 @@ let modelos_scripts = {
     ],
 
     ausencia_do_cliente: [
-        'Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?',
+        'criar novo script/BLOCO',
 
         'É importante que você permaneça presente no chat, pois a falta de interação pode resultar em desconexão e será necessário realizar um novo contato. Precisamos interagir a cada 03 minutos, no máximo. Tudo bem?'
     ],
@@ -52,9 +52,12 @@ let modelos_scripts = {
     ],
 
     acordo_de_espera: [
+        `Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?',
+        
         '[Nome do cliente], vou me ausentar para verificar o seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.',
 
         '[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por favor.',
+        
         'Aguarde só mais um momento, por favor.',
 
         'Estou quase lá! Mais um momento, por gentileza.',

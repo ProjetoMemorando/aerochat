@@ -72,12 +72,7 @@ let modelos_scripts = {
  
         'Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬'
     ],
-
-
-    teste: [
-        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬'
-        ],
-    
+  
     simulacao_compra: [
         'Em desenvolvimento'
     ]

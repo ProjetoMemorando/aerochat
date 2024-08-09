@@ -2,7 +2,8 @@
 let modelos_scripts = {
     script_inicial: [
         'Olá, seja bem-vindo(a) à GOL Linhas Aéreas! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
-        '(Nome do cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. Como posso te ajudar?'
+        '(Nome do cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. Como posso te ajudar?',
+        'TESTE TESTE' 
     ],
  
     retorno_cliente: [

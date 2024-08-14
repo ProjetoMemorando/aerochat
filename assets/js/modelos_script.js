@@ -100,7 +100,7 @@ function titulos(value) {
     let lista_titulos = {
         acordo_de_espera: '⚠ Devemos utilizar os scripts abaixo para renovar o acordo de espera. É crucial sempre iniciar pelo primeiro script.⚠',
  
-        aviso_falta_de_interacao: '⚠ Caso perceba que o Cliente não responde, chame-o por 3 vezes (dando um intervalo de 02 minuto a cada chamada). Se ele não responder, encerre o contato. Sugestões de Script abaixo: ⚠'
+        aviso_falta_de_interacao: '⚠ Ao iniciar o atendimento e, logo após a saudação inicial, informe ao cliente que ele deve interagir as mensagens enviadas no tempo máximo de 3 minutos, caso não tenha essa interação o chat será desconectado automaticamente. Já em atendimento, caso o Cliente deixe de interagir após a saudação inicial, ou no decorrer do atendimento, deve ser enviada 1 mensagens chamando o Cliente, após essa mensagem o colaborador deve aguardar 3 minutos no chat, e caso não tenha o retorno o contato deverá ser interrompido por falta de comunicação.⚠'
  
     }
  

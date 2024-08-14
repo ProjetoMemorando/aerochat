@@ -51,7 +51,6 @@ Orientamos que não se ausente do chat, pois poderá ser desconectado por falta 
  
     acordo_de_espera: [
 
-        'Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Tudo bem?',
         
         '[Nome do cliente], vou me ausentar para verificar o seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.',
  

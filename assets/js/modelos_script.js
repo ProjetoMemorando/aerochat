@@ -2,8 +2,8 @@
 let modelos_scripts = {
     script_inicial: [
         'Olá, seja bem-vindo(a) à GOL Linhas Aéreas! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
-        `(Nome do cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXXX. 
-Orientamos que não se ausente do chat, pois poderá ser desconectado por falta de interação, e será necessário entrar em contato novamente. Vamos manter esse diálogo ativo, interagindo a cada 3 minutos, no máximo. Como posso te ajudar? `
+        `(Nome do Cliente) , gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: ( Número do ticket) . 
+        Orientamos que não se ausente do chat, em casos de falta de interação a partir de 3 minutos, será desconectado, sendo necessário entrar em contato novamente. Como posso te ajudar?`
      
     ],
  

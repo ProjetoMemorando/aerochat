@@ -42,7 +42,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     agradecimento: [
         '[Nome do cliente], agradeço por ter aguardado enquanto eu analisava a sua solicitação. 😊✈💬',
  
-        '[Nome do cliente], Agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬',
+        '[Nome do cliente], agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬',
  
         'Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬',
  

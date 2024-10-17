@@ -215,7 +215,11 @@ Essas medidas garantem que sua bagagem de mão se encaixe perfeitamente nos comp
 Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
 `
     ]
+  atualizacao_de _dados_cadastrais: [
+  `Para dar continuidade à sua solicitação e garantir sua segurança, é importante que você a trate diretamente com o Time de Privacidade. Para isso, acesse nosso site: https://www.voegol.com.br e siga o caminho: Política de Privacidade >>> Canais de Contato. Se você deseja exercer seus direitos como titular dos dados, clique aqui.
 
+Lembre-se de que o prazo para conclusão do atendimento via Portal é de até 15 dias úteis. Agradecemos pela sua compreensão`  
+    ]
     
 }
 

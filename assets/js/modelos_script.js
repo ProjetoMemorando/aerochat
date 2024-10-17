@@ -37,9 +37,9 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
  
   alteracao_cadastral: [
         'Para prosseguir com a sua solicitação é obrigatória a confirmação de todos os seguintes dados de segurança: e-mail de cadastro da conta, nome, sobrenome e endereço completo do titular da conta.' ,
-       'Para seguirmos com sua solicitação, você poderia, por favor, enviar os comprovantes do seu endereço antigo e do atual.' ,
-        'Para que possamos dar sequência à sua solicitação, poderia, por favor, confirmar os seguintes dados: Data de Nascimento, Nome do Pai e Nome da Mãe.' ,
-      'Para seguirmos com sua solicitação, você poderia confirmar, por favor, o número de telefone que está registrado no seu cadastro.' 
+       'Para seguirmos com sua solicitação, poderia, por favor, enviar os comprovantes do seu endereço antigo e do atual ?' ,
+        'Para que possamos dar sequência à sua solicitação, por favor, confirmar os seguintes dados: Data de Nascimento, Nome do Pai e Nome da Mãe ?' ,
+      'Para seguirmos com sua solicitação, poderia confirmar, por favor, o número de telefone que está registrado no seu cadastro ?' 
       
     ],
  

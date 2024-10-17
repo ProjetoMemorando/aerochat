@@ -104,7 +104,9 @@ function titulos(value) {
     let lista_titulos = {
         acordo_de_espera: '⚠ Devemos utilizar os scripts abaixo para renovar o acordo de espera. É crucial sempre iniciar pelo primeiro script.⚠',
  
-        aviso_falta_de_interacao: '⚠ É necessário aguardar 3 minutos no chat. Caso não haja retorno do contato, a conversa deverá ser interrompida por falta de comunicação. ⚠'
+        aviso_falta_de_interacao: '⚠ É necessário aguardar 3 minutos no chat. Caso não haja retorno do contato, a conversa deverá ser interrompida por falta de comunicação. ⚠' ,
+        
+        atualizacao_de_dados_cadastrais: 'Caso o cliente deseje atualizar os dados, porém não passou pelas etapas de segurança, siga o script abaixo. ⚠'
  
     }
  

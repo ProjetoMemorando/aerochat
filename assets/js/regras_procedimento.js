@@ -220,7 +220,7 @@ Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg.
 
   atualizacao_de_dados_cadastrais: [
   `Para dar continuidade à sua solicitação e garantir sua segurança, é importante que você a trate diretamente com o Time de Privacidade. Para isso, acesse nosso site: https://www.voegol.com.br e siga o caminho: Política de Privacidade >>> Canais de Contato. Se você deseja exercer seus direitos como titular dos dados, clique aqui.
-Lembre-se de que o prazo para conclusão do atendimento via Portal é de até 15 dias úteis. Agradecemos pela sua compreensão`  
+Lembre-se de que o prazo para conclusão do atendimento via Portal é de até 15 dias úteis. Agradecemos a sua compreensão`  
     ]
     
 }

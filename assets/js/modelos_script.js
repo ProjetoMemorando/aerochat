@@ -81,7 +81,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     ],
   
     solicitacao_de_descricao_de_atendimento_chat: [
-        'Prezado(a) Sr.(a) [Nome],Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
+        'Prezado(a) Sr.(a) [Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
     ]
 }
  

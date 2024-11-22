@@ -32,7 +32,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
  
         'Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️',
  
-        'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experência conosco através da nossa pesquisa. 💖✈️'
+        'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
     ],
  
   alteracao_cadastral: [

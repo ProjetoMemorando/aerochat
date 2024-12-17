@@ -197,10 +197,9 @@ Essas medidas garantem que sua bagagem de mão se encaixe perfeitamente nos comp
 `
 ,
  `Você pode comprar a opção de bagagem despachada tanto no momento da compra da passagem quanto posteriormente. É importante seguir as especificações de tamanho para o despacho. Sua mala deve ter, no máximo, 50 cm de largura, 80 cm de altura e 28 cm de profundidade, com um peso de até 23 kg. Se adquirir a bagagem até 48hrs antes do voo (antes da janela de check-in) terá desconto na franquia.
-
- Se a bagagem ultrapassar 23 kg, será cobrado um valor por excesso de bagagem: R$ 35 por quilo para voos nacionais e R$ 50 por quilo para voos internacionais. O peso total de uma única bagagem não pode ultrapassar 45 kg para voos dentro do Brasil e 32 kg para voos internacionais. 
-
- Cada bagagem despachada deve corresponde a um único volume de até 23 kg. Se esse peso for dividido em dois ou mais volumes, cada volume extra será cobrado como bagagem adicional.
+Se a bagagem ultrapassar 23 kg, haverá cobrança de taxas por excesso de peso. Em voos nacionais, a taxa é de R$ 170 para bagagens com até 32 kg e R$ 350 para aquelas entre 32 kg e 45 kg. Em voos internacionais, a cobrança é de R$ 400 para América do Sul e R$ 500 para América Central, EUA e outros destinos para bagagens de até 32 kg.
+Vale destacar que o peso máximo permitido por bagagem é de 45 kg em voos domésticos e 32 kg em voos internacionais, sendo esse o limite aceito.
+ Cada bagagem despachada deve corresponder a um único volume de até 23 kg. Se esse peso for dividido em dois ou mais volumes, cada volume extra será cobrado como bagagem adicional.
    ` 
 ,
         

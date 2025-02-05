@@ -64,6 +64,8 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
         '[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por favor.',
         
         'Aguarde só mais um momento, por favor.',
+        
+        'Só mais um momento, por favor. Caso precise de qualquer coisa, estou à disposição. É só chamar.',
  
         'Estou quase lá! Mais um momento, por gentileza.',
  

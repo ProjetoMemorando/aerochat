@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/b2c_modelos_scripts.css">
+    <link rel="shortcut icon" href="assets/img/Vector.png" type="image/x-icon">
+    <title>Modelos de Script</title>
+</head>
+<body>
+    <div class="container">
+        <div class="container2">
+
+            <!-- Botão Home -->
+            <a href="index.html">
+                <img id="btn-home" src="assets/img/home.png" alt="" title="Início">
+            </a>
+            
+            <!-- Lista de opções de scripts -->
+            <div class="baseCenter">
+                <ul class="ul-scriptInicial">
+                    <li class="lista" id="script_inicial" onclick="modal('script_inicial')">
+                        Script inicial
+                        <img class="icon-search"  src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="retorno_cliente" onclick="modal('retorno_cliente')">
+                        Dados da reserva
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="alteracao_cadastral" onclick="modal('alteracao_cadastral')">
+                        Alteração Cadastral
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="pesquisa_de_satisfacao" onclick="modal('pesquisa_de_satisfacao')">
+                        Pesquisa de satisfação
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="aviso_falta_de_interacao" onclick="modal('aviso_falta_de_interacao')">
+                        Aviso falta de interação
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="encerramento_falta_de_comunicacao" onclick="modal('encerramento_falta_de_comunicacao')">
+                        Encerramento/Falta de comunicação
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="acordo_de_espera" onclick="modal('acordo_de_espera')">
+                        Acordo de espera
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                        <li class="lista" id="solicitacao_de_descricao_de_atendimento_chat" onclick="modal('solicitacao_de_descricao_de_atendimento_chat')">
+                        Solicitação de gravação do atendimento Chat B2C
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="agradecimento" onclick="modal('agradecimento')">
+                        Agradecimento - Hold/Mute
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    
+            
+                    
+                </ul>
+            </div>
+
+
+            <!-- Modal -->
+             <div class="baseModal">
+                <div class="modal">
+                    <header class="header-modal">
+                        <div class="title-header" >
+                            <span id="titulo">
+                                Modelos de Scripts
+                            </span>
+                        </div>
+                        <div class="closeModal">
+                            <img id="icon-close" src="assets/img/close2.png" alt="Fechar" title="Fechar" onclick="fecharModal()">
+                        </div>
+                    </header>
+                    <main id="baseRows">
+
+                    </main>
+                </div>
+             </div>
+        </div>
+    </div>
+
+    <script src="assets/js/b2c_modelos_script.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/b2c_regras_procedimento.css">
+    <link rel="shortcut icon" href="assets/img/Vector.png" type="image/x-icon">
+    <title>Modelos de Script</title>
+</head>
+<body>
+    <div class="container">
+        <div class="container2">
+
+            <!-- Botão Home -->
+            <a href="index.html">
+                <img id="btn-home" src="assets/img/home.png" alt="" title="Início">
+            </a>
+            
+            <!-- Lista de opções de scripts -->
+            <div class="baseCenter">
+                <ul class="ul-scriptInicial">
+                    <li class="lista" id="dog_cat_cabine" onclick="modal('dog_cat_cabine')">
+                        Dog & Cat na Cabine
+                        <img class="icon-search"  src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="dog_cat_espaco" onclick="modal('dog_cat_espaco')">
+                        Dog & Cat + Espaço
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="dados_link_reembolso" onclick="modal('dados_link_reembolso')">
+                        Dados do link de reembolso
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="regra_tarifa" onclick="modal('regra_tarifa')">
+                        Regra da tarifa
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="medif_fremec" onclick="modal('medif_fremec')">
+                        MEDIF/FREMEC
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="objeto_esquecido" onclick="modal('objeto_esquecido')">
+                      Objeto Esquecido
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+                    <li class="lista" id="bagagem_mao" onclick="modal('bagagem_mao')">
+                        Bagagem (Mão, Despachada e Diferenciada)
+                        <img class="icon-search" src="assets/img/icon-search.png">
+                    </li>
+
+
+                </ul>
+            </div>
+
+            <!-- Modal -->
+             <div class="baseModal">
+                <div class="modal">
+                    <header class="header-modal">
+                        <div class="title-header" >
+                            <span id="titulo">
+                                Modelos de Scripts
+                            </span>
+                        </div>
+                        <div class="closeModal">
+                            <img id="icon-close" src="assets/img/close2.png" alt="Fechar" title="Fechar" onclick="fecharModal()">
+                        </div>
+                    </header>
+                    <main id="baseRows">
+
+                    </main>
+                </div>
+             </div>
+        </div>
+    </div>
+
+    <script src="assets/js/b2c_regras_procedimento.js"></script>
+</body>
+</html>

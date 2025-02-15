@@ -1,0 +1,251 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --color_1: #FE7100;
+    --color_2: #FF8303;
+    --color_3: #FFBC32;
+}
+
+a {
+    color: #FFF;
+}
+
+.container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-height: 600px;
+    background: rgb(255,112,32);
+    background: linear-gradient(135deg, rgba(255,112,32,1) 0%, rgba(255,131,3,1) 100%);
+    z-index: 1;
+}
+
+.container2 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/bg-home_regras_proc_smiles.png');
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+}
+
+.baseCenter {
+    width: fit-content;
+    max-width: 50%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+li {
+    position: relative;
+    display: inline-block;
+    border: 2px #FFF outset;
+    width: 22rem;
+    height: fit-content;
+    padding: 10px 15px;
+    background-color: #CECECE;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #FFF;
+    font-weight: bold;
+}
+
+.icon-search {
+    position: absolute;
+    height: 2rem;
+    right: 20px;
+}
+
+#btn-home {
+    position: absolute;
+    height: 3rem;
+    left: 20px;
+    top: 15px;
+    cursor: pointer;
+}
+
+#btn-home:hover {
+    filter: drop-shadow(1px 1px 3px #000);
+}
+
+.baseModal {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #00000079;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    width: 60rem;
+    height: 35rem;
+    background-color: #cececeb4;
+    border-radius: 15px;
+    padding: 15px;
+    background-image: url('../img/base-modal.png');
+    background-size: 100%;
+
+}
+
+.header-modal {
+    width: 100%;
+    height: 4rem;
+    display: flex;
+}
+
+.title-header {
+    width: calc(100% - 3rem);
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.closeModal {
+    width: 3rem;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#icon-close {
+    height: 2.5rem;
+    cursor: pointer;
+}
+
+#icon-close:hover {
+    filter: drop-shadow(1px 1px 3px);
+}
+
+#titulo {
+    display: flex;
+    width: calc(100% - 2rem);
+    height: 100%;
+    padding: 10px;
+    margin-left: -20px;
+    background: rgb(255,112,32);
+    background: linear-gradient(135deg, rgba(255,112,32,1) 0%, rgba(255,188,50,1) 100%);
+    color: #000;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 2px #FFF solid;
+}
+
+#baseRows {
+    position: relative;
+    width: 100%;
+    overflow: auto;
+    height: calc(100% - 4rem);
+    padding: 10px;
+}
+
+.row_modal {
+    width: 100%;
+    height: fit-content;
+    min-height: 3rem;
+    background-color: #CECECE;
+    border: 2px var(--color_1) outset;
+    padding: 10px 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.row_modal:hover {
+    background-color: #FFF;
+}
+
+.border_success {
+    width: 100%;
+    height: fit-content;
+    min-height: 3rem;
+    background-color: #CECECE;
+    border: 2px #008000 outset;
+    padding: 10px 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.border_success:hover {
+    background-color: #FFF;  
+}
+
+
+
+
+
+/* CSS SCROLLBAR */
+
+/* Firefox (uncomment to work in Firefox, although other properties will not work!)  */
+/** {
+  scrollbar-width: thin;
+  scrollbar-color: #FE7100 #DFE9EB;
+}*/
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+    height: 7px;
+    width: 7px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #DFE9EB;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #FE7100;
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #FFBC32;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #FF8303;
+  }
+  

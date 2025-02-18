@@ -22,17 +22,17 @@ let modelos_scripts = {
  
         'Olá, [nome do cliente] ainda está conectado? Preciso que você se comunique comigo, ou o atendimento poderá ser encerrado, automaticamente, por falta de interação.',
  
-        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato!'
+        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A Smiles agradece seu contato!'
     ],
  
     pesquisa_de_satisfacao: [
-        'Seu feedback sobre o atendimento GOL é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💬',
+        'Seu feedback sobre o atendimento Smiles é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💬',
  
-        'Sua opinião sobre o atendimento GOL é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 💖✈️',
+        'Sua opinião sobre o atendimento Smiles é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 💖✈️',
  
-        'Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️',
+        'Valorizamos a sua opinião sobre o atendimento Smiles. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️',
  
-        'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
+        'A sua avaliação sobre o atendimento Smiles é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
     ],
  
   alteracao_cadastral: [
@@ -73,17 +73,17 @@ let modelos_scripts = {
     ],
  
     encerramento_falta_de_comunicacao: [
-        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
+        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A Smiles agradece seu contato! ✈️💬',
  
-        'Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
+        'Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A Smiles agradece seu contato! ✈️💬',
  
-        'Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
+        'Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento. A Smiles agradece seu contato! ✈️💬',
  
-        'Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬'
+        'Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A Smiles agradece seu contato! ✈️💬'
     ],
   
     solicitacao_de_descricao_de_atendimento_chat: [
-        'Prezado(a) Sr.(a) [Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
+        '[Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
     ]
 }
  

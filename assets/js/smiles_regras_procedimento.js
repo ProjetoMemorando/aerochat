@@ -166,25 +166,25 @@ Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg.
     alteracao_voluntaria_voo_nacional: [
 `  (Scripts para categoria Smiles e Prata)
 
-[Nome do cliente], obrigado por aguardar e desculpas pela demora! Para sua remarcação, será cobrado o valor de R$ 300,00 por trecho e passageiro, além da diferença tarifária, caso haja e se o valor do novo bilhete for inferior, a transação antiga será cancelada e um novo pagamento deverá ser efetuado. Vale salientar que os valores de remarcação devem ser pagos em cartão de crédito. Para efetuar sua remarcação, solicito que entre em contato com a nossa Central Smiles (Atendimento Voz):
+Para voos nacionais GOL emitidos pela Smiles, será cobrado o valor de R$ 300,00 por trecho e por passageiro, além da diferença de tarifa caso haja. A remarcação poderá ser realizada 24 horas após a emissão do voo, sendo permitida apenas 1 remarcação paga por localizador.
+
+Não será possível realizar a remarcação nos seguintes casos:
+
+Bebê incluso na reserva;
+Bilhetes multi-aeroportos;
+Bilhete Smiles pago integralmente com cartão de crédito;
+Check-in já realizado;
+Emissão realizada com menos de 24h de antecedência;
+No-Show (não comparecimento ao voo);
+Trecho já utilizado;
+Tarifas Viaje Fácil e Reserva 72h.
+Observação: As tarifas podem variar e estão sujeitas a alterações a qualquer momento.
+
+Para efetuar sua remarcação, por favor, entre em contato com a nossa Central Smiles (Atendimento Voz):
 ☎️ 0300 115 7001
-🕓 Atendimento: das 06h00 às 00h00, diariamente. Custo de ligação local + impostos.  
-
-    `  ,
- ` (Scripts para categoria Ouro e Diamante)
- 
-[Nome do cliente], agradecemos pela paciência e pedimos desculpas pela demora! Para realizar a sua remarcação, será cobrada uma taxa de R$ 300,00 por trecho e passageiro, além de eventuais diferenças tarifárias. Caso o valor do novo bilhete seja inferior, a transação anterior será cancelada, e um novo pagamento deverá ser efetuado. É importante lembrar que os valores de remarcação devem ser pagos exclusivamente com cartão de crédito.
-Para dar continuidade à sua remarcação, por favor, entre em contato com a nossa Central Smiles (Atendimento Voz):
-☎️ 0300 115 7007
-
 🕓 Atendimento: 06h00 às 00h00, todos os dias. Custo de ligação local + impostos.
-Ou, caso prefira, entre em contato pelo nosso WhatsApp exclusivo para clientes Diamante:
 
-💬 +55 11 991 824 233
-
-🕓 Atendimento 24h.
-  
-  `       
+    `        
     ] 
     ,
     alteracao_voluntaria_Voo_internacional: [ 

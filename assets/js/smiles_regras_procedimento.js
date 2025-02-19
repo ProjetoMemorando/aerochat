@@ -185,7 +185,8 @@ Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg.
     ,
     alteracao_voluntaria_Voo_internacional: [ 
 
-        ` [Nome do cliente], obrigado por aguardar e desculpas pela demora! Para sua remarcação, será cobrado o valor de R$ 750,00 por trecho e passageiro, além da diferença tarifária, caso haja e se o valor do novo bilhete for inferior, a transação antiga será cancelada e um novo pagamento deverá ser efetuado. Vale salientar que os valores de remarcação devem ser pagos em cartão de crédito. Para efetuar sua remarcação, solicito que entre em contato com a nossa Central Smiles (Atendimento Voz):
+        ` (Scripts para categoria Smiles e Prata)
+        [Nome do cliente], obrigado por aguardar e desculpas pela demora! Para sua remarcação, será cobrado o valor de R$ 750,00 por trecho e passageiro, além da diferença tarifária, caso haja e se o valor do novo bilhete for inferior, a transação antiga será cancelada e um novo pagamento deverá ser efetuado. Vale salientar que os valores de remarcação devem ser pagos em cartão de crédito. Para efetuar sua remarcação, solicito que entre em contato com a nossa Central Smiles (Atendimento Voz):
 ☎️ 0300 115 7001
 🕓 Atendimento: das 06h00 às 00h00, diariamente. Custo de ligação local + impostos.  `
 

@@ -161,7 +161,11 @@ Vale destacar que o peso máximo permitido por bagagem é de 45 kg em voos domé
  	-Voos para os EUA e Punta Cana (PUJ): R$ 478,00.
 Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
 `
-    ] 
+    ] ,
+    remarcacao_voluntaria: [
+` Sobre a remarcação voluntária, o valor da taxa de alteração(remarcação) será fixo e cobrado por trecho e passageiro, sendo R$ 300,00 para voos nacionais e R$ 750,00 para voos internacionais. Além do valor da taxa também é cobrada a diferença tarifária e se o valor do novo bilhete for inferior, a transação antiga será cancelada e um novo pagamento deverá ser efetuado. Os valores de remarcação devem ser pagos em Cartão de Crédito. Tanto o valor da taxa quando os valores de diferença tarifária podem ser parcelados seguindo as mesmas regras de emissão de bilhetes.
+     `   
+    ]
     
 
     

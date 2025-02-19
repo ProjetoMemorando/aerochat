@@ -213,9 +213,34 @@ Vale destacar que o peso máximo permitido por bagagem é de 45 kg em voos domé
  	-Voos para os EUA e Punta Cana (PUJ): R$ 478,00.
 Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
 `
-    ] 
+    ] ,
+    programa_smiles:[ ` As companhias aéreas que pontuam com a GOL no programa Smiles são: GOL, Delta, Air France, KLM, Qatar, Aerolíneas Argentinas, Etihad, TAP, Alitalia, Copa Airlines, Korean Air, Air Canada, Aeromexico, Emirates e South African.
+` 
+    ]
+    ,
+Assento: [ ` 
+Em primeiro lugar, gostaria de pedir desculpas pelo transtorno causado pela alteração do seu assento. Entendemos sua frustração e queremos te assegurar que estamos comprometidos em oferecer a melhor experiência possível aos nossos clientes.
+De acordo com a Resolução 400 da ANAC e o contrato de transporte aéreo (cláusula 14.2), a GOL reserva o direito de alterar o assento do passageiro por motivos operacionais, até o momento do embarque.
+os assentos podem sofrer alterações, sem aviso prévio, caso seja necessário o controle de peso e balanceamento da aeronave, troca de aeronaves que possuem distintas configurações de assentos ou necessidade especial de algum passageiro. Conforme consta no Contrato de Transporte Aéreo: "13.2.
+Lamentamos qualquer inconveniente que isso possa ter causado.
+` 
     
+]
+,
+    cancelamento_laudo_medico: [ ` (Nome do Cliente), agradeço pela paciência e peço desculpas pela demora. 
+Para darmos prosseguimento à sua solicitação de reembolso, solicitamos, por gentileza, o envio de um laudo ou atestado médico que informe a impossibilidade de embarque do passageiro. 
+Se o atestado médico indicar repouso, mas não mencionar que o Cliente não está apto para o voo, este atestado não será válido.
+Esse documento deve obrigatoriamente conter as seguintes informações:
+•	Nome completo do passageiro;
+•	Nome completo do médico responsável;
+•	Número do registro profissional do médico (CRM);
+•	Assinatura do médico.
+Assim que o documento for enviado, daremos continuidade ao processo de análise do seu pedido.
 
+    ` 
+
+        
+    ]
     
 }
 

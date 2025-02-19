@@ -218,7 +218,7 @@ Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg.
 ` 
     ]
     ,
-Assento: [ ` 
+assento: [ ` 
 Em primeiro lugar, gostaria de pedir desculpas pelo transtorno causado pela alteração do seu assento. Entendemos sua frustração e queremos te assegurar que estamos comprometidos em oferecer a melhor experiência possível aos nossos clientes.
 De acordo com a Resolução 400 da ANAC e o contrato de transporte aéreo (cláusula 14.2), a GOL reserva o direito de alterar o assento do passageiro por motivos operacionais, até o momento do embarque.
 os assentos podem sofrer alterações, sem aviso prévio, caso seja necessário o controle de peso e balanceamento da aeronave, troca de aeronaves que possuem distintas configurações de assentos ou necessidade especial de algum passageiro. Conforme consta no Contrato de Transporte Aéreo: "13.2.

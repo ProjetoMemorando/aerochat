@@ -190,9 +190,14 @@ Para efetuar sua remarcação, por favor, entre em contato com a nossa Central S
     alteracao_voluntaria_Voo_internacional: [ 
 
         ` (Scripts para categoria Smiles e Prata)
-        [Nome do cliente], obrigado por aguardar e desculpas pela demora! Para sua remarcação, será cobrado o valor de R$ 750,00 por trecho e passageiro, além da diferença tarifária, caso haja e se o valor do novo bilhete for inferior, a transação antiga será cancelada e um novo pagamento deverá ser efetuado. Vale salientar que os valores de remarcação devem ser pagos em cartão de crédito. Para efetuar sua remarcação, solicito que entre em contato com a nossa Central Smiles (Atendimento Voz):
+[Nome do cliente], agradecemos pela paciência e pedimos desculpas pela demora! Para realizar sua remarcação, será cobrada uma taxa de R$ 750,00 por trecho e passageiro, além de eventuais diferenças tarifárias. Caso o valor do novo bilhete seja inferior, a transação anterior será cancelada e um novo pagamento deverá ser efetuado.
+
+Importante: Este procedimento é válido exclusivamente para voos totalmente operados pela GOL.
+
+Para dar continuidade à sua remarcação, por favor, entre em contato com a nossa Central Smiles (Atendimento Voz):
+
 ☎️ 0300 115 7001
-🕓 Atendimento: das 06h00 às 00h00, diariamente. Custo de ligação local + impostos.  `
+🕓 Atendimento: 06h00 às 00h00, todos os dias. Custo de ligação local + impostos.  `
 
         
     ]

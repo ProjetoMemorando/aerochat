@@ -227,6 +227,28 @@ Lamentamos qualquer inconveniente que isso possa ter causado.
     
 ]
 ,
+vendas_de_servico: [ ` 
+Sr(a). [Nome], para tornar sua viagem ainda mais confortável, gostaria de saber se tem preferência por algum tipo de assento? Temos algumas opções que podem deixar sua experiência mais agradável."
+•	Gol+ Conforto: mais espaço para as pernas, embarque prioritário e compartimento exclusivo.
+•	Assentos na frente da aeronave: para quem prefere desembarcar mais rápido.
+•	Assentos próximos à janela ou ao corredor: ideal para quem tem preferência de posição.
+•	Assentos na saída de emergência: com mais espaço e comodidade.
+Para o assento GOL + Conforto teria o custo adicional de xxxxx por passageiro e por trecho e nos assentos padrão o custo adicional seria de xxxxx também por passageiro e por trecho. Temos disponível no Gol + Conforto os assentos xxxxx xxxxx xxxxx qual deles podemos adicionar para você?
+
+` 
+,
+ ` 
+Ótimo! Pode me dizer se prefere janela, corredor ou não tem preferência? Vou buscar as melhores opções para você.
+`
+,
+ ` 
+Tudo certo, Sr(a). [Nome]. Lembrando que, se não escolher agora, o assento será atribuído automaticamente 60h antes do voo em assentos aleatórios gratuitamente e se desejar alterar após a marcação terá custo para alteração.
+
+`  
+                    
+]
+,
+    
     cancelamento_laudo_medico: [ ` (Nome do Cliente), agradeço pela paciência e peço desculpas pela demora. 
 Para darmos prosseguimento à sua solicitação de reembolso, solicitamos, por gentileza, o envio de um laudo ou atestado médico que informe a impossibilidade de embarque do passageiro. 
 Se o atestado médico indicar repouso, mas não mencionar que o Cliente não está apto para o voo, este atestado não será válido.

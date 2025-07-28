@@ -37,9 +37,9 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
  
   alteracao_cadastral: [
         'Para prosseguir com a sua solicitação é obrigatória a confirmação de todos os seguintes dados de segurança: e-mail de cadastro da conta, nome, sobrenome e endereço completo do titular da conta.' ,
-       'Para seguirmos com sua solicitação, poderia, por favor, enviar os comprovantes do seu endereço antigo e do atual ?' ,
-        'Para que possamos dar sequência à sua solicitação, por favor, confirmar os seguintes dados: Data de Nascimento, Nome do Pai e Nome da Mãe ?' ,
-      'Para seguirmos com sua solicitação, poderia confirmar, por favor, o número de telefone que está registrado no seu cadastro ?' ,
+       'Para seguirmos com sua solicitação, poderia, por favor, enviar os comprovantes do seu endereço antigo e do atual?' ,
+        'Para que possamos dar sequência à sua solicitação, por favor, confirmar os seguintes dados: Data de Nascimento, Nome do Pai e Nome da Mãe?' ,
+      'Para seguirmos com sua solicitação, poderia confirmar, por favor, o número de telefone que está registrado no seu cadastro?' ,
       `Para dar continuidade à sua solicitação e garantir sua segurança, é importante que você a trate diretamente com o Time de Privacidade. Para isso, acesse nosso site: https://www.voegol.com.br e siga o caminho: Política de Privacidade >>> Canais de Contato. Se você deseja exercer seus direitos como titular dos dados, clique aqui.
       Lembre-se de que o prazo para conclusão do atendimento via Portal é de até 15 dias úteis. Agradecemos a sua compreensão`
 

@@ -129,6 +129,63 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 ✈︎Remarcação (Mudança de data): Você tem a flexibilidade de remarcar sem custos adicionais de multa, disponível gratuitamente para qualquer horário no mesmo dia do voo original. No entanto, se a nova passagem tiver um valor superior, será necessário pagar a diferença de preço entre os bilhetes.
 `
     ],
+    regra_tarifa_nova: [
+`Tarifa BASIC:
+✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
+✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg.
+✈ Mala pequena (até 12 kg) e Bagagem despachada (até 23 kg): Disponível mediante taxa adicional. Mala pequena sujeita a despacho no embarque.
+✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
+✈ Remarcação (Mudança de data) Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida.
+✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
+✈ Antecipação de Voo: Não é permitida nesta tarifa.
+
+`
+,
+`Tarifa LIGHT:
+✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
+✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg e uma mala pequena (até 12 kg). Mala pequena sujeita a despacho no embarque.
+✈ Bagagem despachada (até 23 kg): Disponível mediante taxa adicional.
+✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança ou categoria Smiles, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
+✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida
+✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
+✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+
+`
+,
+`Tarifa CLASSIC:
+✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
+✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
+✈ Marcação de Assento padrão: Marcação gratuita, permitindo que você escolha o assento com antecedência.
+✈Assento GOL + Conforto: Os Clientes podem escolher seus assentos mediante cobrança ou benefício categoria Smiles.
+✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida
+✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
+✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+
+`
+,
+ `Tarifa FLEX:
+✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
+✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
+✈Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
+✈Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
+✈ Cancelamento: Não há reembolso do valor da passagem em caso de cancelamento.
+✈ Reembolso: Não permite reembolso, exceto das taxas de embarque.
+✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+
+`
+,
+ `Tarifa PREMIUM ECONOMY:
+✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
+✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
+✈ Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
+✈ Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
+✈ Cancelamento: Não há reembolso do valor da passagem em caso de cancelamento
+✈ Reembolso: Não permite reembolso, exceto das taxas de embarque
+✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+
+
+`
+    ],
     
     medif_fremec: [
     `O passageiro precisa encaminhar ao seu médico pessoal o formulário de informação médica (MEDIF) para que ele possa preencher e assinar, sendo necessário enviar para à GOL entre 15 dias e 72 horas antes do embarque. Após análise, nossa equipe emitirá um parecer sobre a aptidão do passageiro para viajar, onde esse documento que comprovará a condição especial da pessoa. 
@@ -372,3 +429,4 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+

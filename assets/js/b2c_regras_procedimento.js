@@ -168,8 +168,8 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
 ✈Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
 ✈Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
-✈ Cancelamento: Não há reembolso do valor da passagem em caso de cancelamento.
-✈ Reembolso: Não permite reembolso, exceto das taxas de embarque.
+✈ Cancelamento: Permitido sem cobrança de taxas.
+✈ Reembolso: Permitido o reembolso total e sem taxas.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
 `
@@ -179,8 +179,8 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
 ✈ Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
 ✈ Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
-✈ Cancelamento: Não há reembolso do valor da passagem em caso de cancelamento
-✈ Reembolso: Não permite reembolso, exceto das taxas de embarque
+✈ Cancelamento: Permitido sem cobrança de taxas.
+✈ Reembolso: Permitido o reembolso total e sem taxas.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
 
@@ -429,4 +429,5 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 

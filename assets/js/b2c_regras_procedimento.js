@@ -321,7 +321,7 @@ Assim que o documento for enviado, daremos continuidade ao processo de análise 
         
     ]
         ,
-    assistencia_emergencial: [ ` (Primeiramente, meus sentimentos! Informamos que, em casos de falecimento de pai, mãe, cônjuge ou filho(a) do passageiro, a GOL concede um desconto de 50% no valor do reembolso, desde que a solicitação seja realizada após o voo. O reembolso é efetuado por meio do Travel Bank (Crédito GOL), sendo necessário que o solicitante possua uma conta ativa no sistema ou realize o cadastro para criação da conta.
+    assistencia_emergencial: [ ` Primeiramente, meus sentimentos! Informamos que, em casos de falecimento de pai, mãe, cônjuge ou filho(a) do passageiro, a GOL concede um desconto de 50% no valor do reembolso, desde que a solicitação seja realizada após o voo. O reembolso é efetuado por meio do Travel Bank (Crédito GOL), sendo necessário que o solicitante possua uma conta ativa no sistema ou realize o cadastro para criação da conta.
  
 ✈️ Documentação obrigatória:
 Declaração ou atestado de óbito;
@@ -347,7 +347,7 @@ Em reservas com múltiplos passageiros, o benefício será concedido apenas ao p
     ]
         ,
     
-    travel_bank: [ ` (O Travel Bank (Créditos GOL) é uma conta vinculada ao cadastro GOL, em que podem ser armazenados os valores restantes após cancelamentos de reserva e/ou serviços. Pode ser usado como forma de pagamento de novas reservas ou serviços, para o titular da conta ou terceiros.
+    travel_bank: [ ` O Travel Bank (Créditos GOL) é uma conta vinculada ao cadastro GOL, em que podem ser armazenados os valores restantes após cancelamentos de reserva e/ou serviços. Pode ser usado como forma de pagamento de novas reservas ou serviços, para o titular da conta ou terceiros.
 
 Após acessar nosso site (voegol.com.br) e realizar o login na conta que possui os créditos, basta seguir o fluxo de compra até o momento em que serão apresentadas as formas de pagamento. Você também pode conferir o valor disponível em seus créditos GOL após realizar o login no site, ir até o canto direito da tela, clicar em seu nome e, em seguida, na opção "Créditos e reembolsos".
 
@@ -465,6 +465,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

@@ -170,7 +170,7 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 ✈Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
 ✈ Cancelamento: Permitido sem cobrança de taxas.
 ✈ Reembolso: Permitido o reembolso total e sem taxas.
-✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+✈ Antecipação de Voo: Permitida de forma gratuita, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
 `
 ,
@@ -181,7 +181,7 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 ✈ Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
 ✈ Cancelamento: Permitido sem cobrança de taxas.
 ✈ Reembolso: Permitido o reembolso total e sem taxas.
-✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
+✈ Antecipação de Voo: Permitida de forma gratuita, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
 
 `
@@ -465,6 +465,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

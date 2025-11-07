@@ -354,8 +354,20 @@ Após acessar nosso site (voegol.com.br) e realizar o login na conta que possui 
 O crédito terá validade de 365 dias a partir da data em que for gerado o reembolso e os valores forem enviados para a conta GOL. Após esse período, o valor expirará automaticamente.
 
     ` 
-        
     ]
+        ,
+    
+    ferramenta_com_instabilidade: [ ` Agradecemos pelo seu contato e entendemos a sua solicitação.
+ 
+No momento, estamos passando por uma instabilidade temporária em nossos sistemas, e isso pode estar impactando sua experiência. Pedimos, por gentileza, que tente novamente em outro momento.
+ 
+Ainda não temos uma previsão exata para a normalização, mas nossa equipe está trabalhando com prioridade para resolver o quanto antes.
+ 
+Agradecemos muito pela sua paciência e compreensão. Se precisar de mais alguma coisa ou tiver outra dúvida, estou aqui para ajudar!
+    ` 
+        
+    ]   
+    
     
 }
 
@@ -465,6 +477,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

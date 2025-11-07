@@ -40,8 +40,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
        'Para seguirmos com sua solicitação, poderia, por favor, enviar os comprovantes do seu endereço antigo e do atual?' ,
         'Para que possamos dar sequência à sua solicitação, por favor, confirmar os seguintes dados: Data de Nascimento, Nome do Pai e Nome da Mãe?' ,
       'Para seguirmos com sua solicitação, poderia confirmar, por favor, o número de telefone que está registrado no seu cadastro?' ,
-      `Para dar continuidade à sua solicitação e garantir sua segurança, é importante que você a trate diretamente com o Time de Privacidade. Para isso, acesse nosso site: https://www.voegol.com.br e siga o caminho: Política de Privacidade >>> Canais de Contato. Se você deseja exercer seus direitos como titular dos dados, clique aqui.
-      Lembre-se de que o prazo para conclusão do atendimento via Portal é de até 15 dias úteis. Agradecemos a sua compreensão`
+      
 
       
     ],
@@ -84,7 +83,12 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
   
     solicitacao_de_descricao_de_atendimento_chat: [
         'Prezado(a) Sr.(a) [Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
-    ]
+    ],
+
+    ferramenta_com_instabilidade: [
+        'Agradecemos pelo seu contato e entendemos a sua solicitação. No momento, estamos passando por uma instabilidade temporária em nossos sistemas, e isso pode estar impactando sua experiência. Pedimos, por gentileza, que tente novamente em outro momento. Ainda não temos uma previsão exata para a normalização, mas nossa equipe está trabalhando com prioridade para resolver o quanto antes.Agradecemos muito pela sua paciência e compreensão. Se precisar de mais alguma coisa ou tiver outra dúvida, estou aqui para ajudar!'
+   ]
+
 }
  
  
@@ -194,3 +198,4 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+

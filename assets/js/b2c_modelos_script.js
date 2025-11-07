@@ -86,7 +86,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     ],
 
     ferramenta_com_instabilidade: [
-        'Agradecemos pelo seu contato e entendemos a sua solicitação. No momento, estamos passando por uma instabilidade temporária em nossos sistemas, e isso pode estar impactando sua experiência. Pedimos, por gentileza, que tente novamente em outro momento. Ainda não temos uma previsão exata para a normalização, mas nossa equipe está trabalhando com prioridade para resolver o quanto antes.Agradecemos muito pela sua paciência e compreensão. Se precisar de mais alguma coisa ou tiver outra dúvida, estou aqui para ajudar!'
+        'Agradecemos pelo seu contato e entendemos a sua solicitação. No momento, estamos passando por uma instabilidade temporária em nossos sistemas, e isso pode estar impactando sua experiência. Pedimos, por gentileza, que tente novamente em outro momento. Ainda não temos uma previsão exata para a normalização, mas nossa equipe está trabalhando com prioridade para resolver o quanto antes. Agradecemos muito pela sua paciência e compreensão. Se precisar de mais alguma coisa ou tiver outra dúvida, estou aqui para ajudar!'
    ]
 
 }
@@ -198,4 +198,5 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 

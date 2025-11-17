@@ -32,7 +32,13 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
  
         'Valorizamos a sua opinião sobre o atendimento GOL. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️',
  
-        'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
+        'A sua avaliação sobre o atendimento GOL é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️',
+        
+        'A GOL agradece o seu contato! Sua opinião é essencial para nós. Pedimos que avalie o atendimento e deixe uma breve descrição da sua experiência. Seu feedback nos ajuda a melhorar sempre! ✈️',
+    
+        'Obrigado pelo seu contato! 💖 Conte pra gente como foi sua experiência, seu feedback sobre o atendimento GOL faz toda a diferença! ✈️',
+
+        'Agradecemos o seu contato! Gostaríamos de saber como foi sua experiência com o atendimento GOL. Por favor, avalie o atendimento e compartilhe seu feedback, ele é essencial para continuarmos aprimorando nossos serviços. ✈️'
     ],
  
   alteracao_cadastral: [
@@ -198,5 +204,6 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 

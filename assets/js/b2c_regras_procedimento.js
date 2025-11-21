@@ -239,7 +239,17 @@ Lembre-se de que, se não for elegível para o FREMEC, seu embarque não será n
     ],
     
     bagagem_mao: [
-        `Bagagem de mão todos os passageiros têm direito a levar, sem custo adicional, uma bagagem de mão e um item pessoal. O item pessoal pode ser uma bolsa, um notebook, um tablet ou uma sacola com produtos comprados no free shop.
+        `A partir do dia 14/10, todos os passageiros podem levar gratuitamente uma Bolsa ou Mochila, um notebook, um tablet ou uma sacola com produtos comprados em Free Shop, case de câmera/eletrônicos.
+Estas bolsas ou mochilas devem ser acomodados abaixo do assento à sua frente.
+Peso permitido de até 10 Kg. Se o peso exceder esse limite, será necessário adquirir a franquia de bagagem despachada.
+As dimensões máximas permitidas para Bolsa ou Mochila são: 22 cm de altura, 32 cm de largura e 43 cm de profundidade.
+
+O Cliente que adquirir as tarifas Light, Classic, Flex e Premium Economy tem franquia de mala pequena inclusa na tarifa.
+Peso permitido a partir de até 12 Kg. Se o peso exceder esse limite, será necessário adquirir a franquia de bagagem despachada.
+Dimensões máximas permitidas: 55cm de altura, 35cm de largura e 25 de profundidade.
+        `
+        ,
+         `Para reservas emitidas antes do dia 14/10, todos os passageiros têm direito a levar, sem custo adicional, uma bagagem de mão e um item pessoal. O item pessoal pode ser uma bolsa, um notebook, um tablet ou uma sacola com produtos comprados no free shop.
 Detalhes da bagagem de mão:
  	Peso permitido: até 10 kg;
  	Dimensões permitidas: 55 cm de altura, 25 cm de largura e 35 cm de comprimento.
@@ -247,7 +257,7 @@ Essas medidas garantem que sua bagagem de mão se encaixe perfeitamente nos comp
 `
 ,
  `Você pode comprar a opção de bagagem despachada tanto no momento da compra da passagem quanto posteriormente. É importante seguir as especificações de tamanho para o despacho. Sua mala deve ter, no máximo, 50 cm de largura, 80 cm de altura e 28 cm de profundidade, com um peso de até 23 kg. Se adquirir a bagagem até 48hrs antes do voo (antes da janela de check-in) terá desconto na franquia.
-Se a bagagem ultrapassar 23 kg, haverá cobrança de taxas por excesso de peso. Em voos nacionais, a taxa é de R$ 170 para bagagens com até 32 kg e R$ 350 para aquelas entre 32 kg e 45 kg. Em voos internacionais, a cobrança é de R$ 400 para América do Sul e R$ 500 para América Central, EUA e outros destinos para bagagens de até 32 kg.
+Se a bagagem ultrapassar 23 kg, haverá cobrança de taxas por excesso de peso. Em voos nacionais, a taxa é de R$ 170,00 para bagagens com até 32 kg e R$ 350,00 para aquelas entre 32 kg e 45 kg. Em voos internacionais, a cobrança é de R$ 450,00 para América do Sul, R$ 550,00 para América Central, Caribe e México e R$ 600,00 para os EUA e outros destinos para bagagens de até 32 kg.
 Vale destacar que o peso máximo permitido por bagagem é de 45 kg em voos domésticos e 32 kg em voos internacionais, sendo esse o limite aceito.
  Cada bagagem despachada deve corresponder a um único volume de até 23 kg. Se esse peso for dividido em dois ou mais volumes, cada volume extra será cobrado como bagagem adicional.
    ` 
@@ -258,9 +268,11 @@ Vale destacar que o peso máximo permitido por bagagem é de 45 kg em voos domé
  	-A soma dos lados A+B+C não pode ultrapassar 292 cm.
  	-A bagagem pode ter até 292 cm, levando em consideração a soma dos lados.
 ✈︎Valores da bagagem diferenciada:
- 	-Voos domésticos: R$ 180,00;
- 	-Voos dentro da América do Sul: R$ 352,00;
- 	-Voos para os EUA e Punta Cana (PUJ): R$ 478,00.
+ 	-Voos domésticos: R$ 195,00;
+ 	-Voos dentro da América do Sul: A partir de R$ 455,00;
+    -Voos para a América Central, Caribe e México: R$ A partir de R$ 565,00
+ 	-Voos para os EUA e outros destinos: A partir de R$ 725,00.
+    Os valores das bagagens diferenciadas em voos internacionais variam conforme o prazo de check-in, e aumentam se a compra for realizada diretamente no aeroporto.
 Os itens que são considerados como bagagem diferenciada devem pesar até 23 kg. Se excederem esse peso, será aplicada uma taxa por quilo excedente: R$ 35,00 por quilo para voos nacionais e R$ 50,00 por quilo para voos internacionais. No caso de viagens dentro do Brasil, o limite máximo permitido é de 45 kg, enquanto para viagens internacionais é de 32 kg. Caso o cliente tenha um volume que exceda essas condições, o despacho pode ser realizado pela GOLLOG, sendo necessário à validação do objeto transportado. 
 `
     ] ,
@@ -490,6 +502,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

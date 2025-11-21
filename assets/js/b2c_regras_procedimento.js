@@ -349,6 +349,38 @@ O crédito terá validade de 365 dias a partir da data em que for gerado o reemb
     ` 
                   
     ]  
+        ,
+    
+    emissao: [ ` Entendido, para efetuar a simulação, há 3 pontos importantes referentes às emissões na central de atendimento:
+ 
+• Para emissões de reservas através das centrais, é cobrada taxa de serviço, conforme a tabela abaixo:
+Voos Nacionais -
+Para trechos de até R$ 399,99 a taxa será de R$ 40,00.
+Maior ou igual a R$ 400,00 = 10% do valor total da tarifa
+Voos Internacionais -
+Para trechos de até R$ 399,99 a taxa será de R$ 40,00.
+Maior ou igual a R$ 400,00 = 7% do valor total da tarifa.
+ 
+• A GOL não trabalha com valores fixos nos voos, sendo assim, ao efetuar a cotação, o valor informado pode ser alterado no futuro, dentro de alguns minutos ou horas
+ 
+• Através do chat são efetuadas apenas emissões com pagamento em cartão de crédito, sendo possível efetuar o pagamento com 1 cartão de crédito, com parcelamento até 5x sem juros, e até 12x com juros, ou com 2 cartões de crédito a vista.
+ 
+Caso deseje prosseguir com a emissão, preciso que me informe, por gentileza:
+
+Origem e destino dos voos:
+Datas e horários desejados:
+Quantidade de passageiros:
+Tarifa desejada (Light, Classic ou Flex):
+    ` 
+       ,
+              
+     ` xxx, para dar continuidade com a emissão, deseja adicionar alguma solicitação de assistência especial? 
+
+Além disso, gostaria de adicionar à sua reserva algum serviço adicional, como marcação antecipada de assento padrão ou GOL + conforto, bagagem despachada ou Pet na cabine?
+
+    `
+              
+    ]  
     
 }
 
@@ -458,6 +490,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

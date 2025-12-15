@@ -124,8 +124,8 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
     ],
     regra_tarifa_nova: [
 `Tarifa BASIC:
-Atenção: A tarifa Basic não é uma tarifa promocional, e encontra-se disponível apenas em voos com origem no Brasil e destino em Montevidéu, ou em voos internacionais com origem no exterior.
-
+Atenção: A tarifa Basic só estará disponível para viagens com origem em outros países onde a GOL opera e, no Brasil, na rota que parte do Aeroporto do Galeão, no Rio de Janeiro, para Montevidéu, no Uruguai.
+ 
 ✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg.
 ✈ Mala pequena (até 12 kg) e Bagagem despachada (até 23 kg): Disponível mediante taxa adicional. Mala pequena sujeita a despacho no embarque.
@@ -505,6 +505,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

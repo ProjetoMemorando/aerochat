@@ -124,6 +124,8 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
     ],
     regra_tarifa_nova: [
 `Tarifa BASIC:
+Atenção: A tarifa Basic não é uma tarifa promocional, e encontra-se disponível apenas em voos com origem no Brasil e destino em Montevidéu, ou em voos internacionais com origem no exterior.
+
 ✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg.
 ✈ Mala pequena (até 12 kg) e Bagagem despachada (até 23 kg): Disponível mediante taxa adicional. Mala pequena sujeita a despacho no embarque.
@@ -319,6 +321,7 @@ Esse documento deve obrigatoriamente conter as seguintes informações:
 •	Nome completo do médico responsável;
 •	Número do registro profissional do médico (CRM);
 •	Assinatura do médico.
+•   Informação de que o passageiro não está apto para realizar viagens aéreas.
 Assim que o documento for enviado, daremos continuidade ao processo de análise do seu pedido.
 
     ` 
@@ -502,6 +505,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

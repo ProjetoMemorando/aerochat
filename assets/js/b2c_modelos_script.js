@@ -93,8 +93,12 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
 
     ferramenta_com_instabilidade: [
         'Agradecemos pelo seu contato e entendemos a sua solicitação. No momento, estamos passando por uma instabilidade temporária em nossos sistemas, e isso pode estar impactando sua experiência. Pedimos, por gentileza, que tente novamente em outro momento. Ainda não temos uma previsão exata para a normalização, mas nossa equipe está trabalhando com prioridade para resolver o quanto antes. Agradecemos muito pela sua paciência e compreensão. Se precisar de mais alguma coisa ou tiver outra dúvida, estou aqui para ajudar!'
-   ]
+   ],
 
+    atendimento_atribuido: [
+        'Olá, meu nome é [xxx]. Devido a uma questão técnica, o atendente anterior não conseguirá dar continuidade à sua solicitação. A partir de agora, eu assumo o seu atendimento e vou te auxiliar no que for necessário. Peço que aguarde um instante enquanto verifico as informações para prosseguir com a sua solicitação.'
+   ]     
+    
 }
  
  
@@ -204,6 +208,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

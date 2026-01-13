@@ -248,7 +248,7 @@ As dimensões máximas permitidas para Bolsa ou Mochila são: 22 cm de altura, 3
 
 O Cliente que adquirir as tarifas Light, Classic, Flex e Premium Economy tem franquia de mala pequena inclusa na tarifa.
 Peso permitido de até 12 Kg. Se o peso exceder esse limite, será necessário adquirir a franquia de bagagem despachada.
-Dimensões máximas permitidas: 55cm de altura, 35cm de largura e 25 de profundidade.
+Dimensões máximas permitidas: 55 cm de altura, 35 cm de largura e 25 de profundidade.
         `
         ,
          `Para reservas emitidas antes do dia 14/10, todos os passageiros têm direito a levar, sem custo adicional, uma bagagem de mão e um item pessoal. O item pessoal pode ser uma bolsa, um notebook, um tablet ou uma sacola com produtos comprados no free shop.
@@ -505,6 +505,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

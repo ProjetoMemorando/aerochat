@@ -393,9 +393,30 @@ Tarifa desejada (Light, Classic ou Flex):
 
 Além disso, gostaria de adicionar à sua reserva algum serviço adicional, como marcação antecipada de assento padrão ou GOL + conforto, bagagem despachada ou Pet na cabine?
 
-    `
+    `       
               
-    ]  
+    ]
+        ,
+    
+    reserva_pcc: [ ` XXXX, após a análise da reserva, verificamos que o check-in online está indisponível devido a uma necessidade de confirmação de dados.
+A reserva está confirmada e ativa. No entanto, será necessário comparecer ao aeroporto no horário de check-in, ou seja, 3 horas antes do voo, para realizar as confirmações necessárias.
+Nesse momento, o titular do cartão utilizado na compra deverá estar presente, portando um documento de identificação. Caso isso não seja possível, será necessário seguir as orientações fornecidas no aeroporto.
+    `
+                  
+    ] 
+        ,
+    
+    agencia: [ `XXX ,no atendimento da GOL, alguns procedimentos relacionados a reservas emitidas por agências, como alterações, cancelamentos ou correção de nome, são tratados diretamente pela própria agência responsável pela emissão.
+Da mesma forma, informações sobre valores de remarcação ou reembolso ficam a cargo da agência, pois ela realiza a intermediação entre o cliente e a GOL e pode ter regras específicas conforme o contrato firmado no momento da compra.
+Para dar continuidade à sua solicitação, oriento que entre em contato com a agência onde a compra foi realizada. Caso necessário, a agência poderá acionar os canais da GOL destinados ao atendimento de reservas de agência.
+    `
+        ,
+    `XXXX, entendi sua solicitação. Por este canal, atendemos reservas emitidas diretamente pela GOL, não sendo possível realizar procedimentos em reservas feitas por agências de viagem.
+ 
+Para dar continuidade, pedimos que faça o login no site utilizando os dados de acesso da agência. Assim, o atendimento será direcionado ao setor B2B, responsável pelas reservas emitidas por agências de viagem.
+    `
+
+    ]
     
 }
 
@@ -505,6 +526,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

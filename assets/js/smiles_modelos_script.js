@@ -2,7 +2,7 @@
 let modelos_scripts = {
     script_inicial: [
         'Olá, seja bem-vindo(a) ao atendimento Smiles! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
-        `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: (Número do ticket). 
+        `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXX. 
         Para garantir uma melhor experiência, peço que não se ausente do atendimento por mais de 6 minutos, para que a conversa não seja encerrada, caso seja, não se preocupe, você pode iniciar um novo atendimento a qualquer momento. 
 Como posso te ajudar? ✈️`
      
@@ -191,4 +191,5 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 

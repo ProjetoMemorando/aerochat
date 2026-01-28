@@ -2,8 +2,9 @@
 let modelos_scripts = {
     script_inicial: [
         'Olá, seja bem-vindo(a) ao atendimento Smiles! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
-        `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento:(Número do ticket). 
-        Orientamos que não se ausente do chat, em casos de falta de interação a partir de 3 minutos, será desconectado, sendo necessário entrar em contato novamente. Como posso te ajudar?`
+        `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: (Número do ticket). 
+        Para garantir uma melhor experiência, peço que não se ausente do atendimento por mais de 6 minutos, para que a conversa não seja encerrada, caso seja, não se preocupe, você pode iniciar um novo atendimento a qualquer momento. 
+Como posso te ajudar? ✈️`
      
     ],
  
@@ -22,7 +23,7 @@ let modelos_scripts = {
  
         'Olá, [nome do cliente] ainda está conectado? Preciso que você se comunique comigo, ou o atendimento poderá ser encerrado, automaticamente, por falta de interação.',
  
-        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A Smiles agradece seu contato!'
+        'Por falta de comunicação, estamos encerrando o contato. Qualquer dúvida, ficamos à disposição! Obrigado por ser um Cliente diamante. A GOL Smiles agradece o seu contato. 💖✈️'
     ],
  
     pesquisa_de_satisfacao: [
@@ -190,3 +191,4 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+

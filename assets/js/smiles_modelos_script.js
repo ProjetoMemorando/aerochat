@@ -83,7 +83,7 @@ Como posso te ajudar? ✈️`
         '[Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
     ],
 
-    empatia: [
+    cliente_atritado: [
         'Lamento que a solução não tenha atendido às suas expectativas, gostaria muito de poder realizar o procedimento, porém mediante as regras o sistema não permite.',
 
         'Peço desculpa que as informações passadas não se apliquem ao que deseja, gostaria muito de poder realizar o procedimento, no entanto, mediante o regulamento, não é possível.'
@@ -197,6 +197,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

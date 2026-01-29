@@ -11,7 +11,7 @@ Qual é a raça do seu animal?
 Qual é a idade do seu animal?
 Qual é o peso do seu animal junto com a caixa de transporte?`,
         
- ` O serviço Dog&Cat Cabine (Nacional) permite que cachorros ou gatos de até 10 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
+ ` O serviço Dog&Cat Cabine (Nacional) permite que cachorros ou gatos de até 12 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
 
  	✈︎O animal acompanhará seu dono em todos os voos até o destino final.
  	✈︎Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet.
@@ -28,7 +28,7 @@ Carteira de Vacinação: Deve incluir a vacina antirrábica com o nome do labora
 Passaporte para Trânsito de Cães e Gatos (opcional): O proprietário deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização.
 Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!
 `,
- ` O serviço Dog&Cat Cabine (Internacional) permite que cachorros ou gatos de até 10 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
+ ` O serviço Dog&Cat Cabine (Internacional) permite que cachorros ou gatos de até 12 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
 
  	✈︎O animal acompanhará seu dono em todos os voos até o destino final.
  	✈︎Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet.
@@ -529,6 +529,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

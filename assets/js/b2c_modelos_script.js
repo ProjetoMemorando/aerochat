@@ -97,7 +97,14 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
 
     atendimento_atribuido: [
         'Olá, meu nome é [xxx]. Devido a uma questão técnica, o atendente anterior não conseguirá dar continuidade à sua solicitação. A partir de agora, eu assumo o seu atendimento e vou te auxiliar no que for necessário. Peço que aguarde um instante enquanto verifico as informações para prosseguir com a sua solicitação.'
-   ]     
+   ],
+
+    atrito: [
+        'Lamento que a solução não tenha atendido às suas expectativas, gostaria muito de poder realizar o procedimento, porém mediante as regras o sistema não permite.',
+
+        'Peço desculpa que as informações passadas não se apliquem ao que deseja, gostaria muito de poder realizar o procedimento, no entanto, mediante o regulamento, não é possível.'
+
+    ]
     
 }
  
@@ -208,6 +215,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

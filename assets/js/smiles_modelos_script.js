@@ -29,9 +29,9 @@ Como posso te ajudar? ✈️`
     pesquisa_de_satisfacao: [
         'Seu feedback sobre o atendimento Smiles é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💬',
  
-        'Sua opinião sobre o atendimento Smiles é importante para nossa melhoria contínua. Por favor, dedique um momento para nos avaliar. 💖✈️',
+        'XXXX, a Smiles agradece o seu contato! Sua opinião é essencial para nós. Pedimos que avalie o atendimento e deixe uma breve descrição da sua experiência. Seu feedback nos ajuda a melhorar sempre! 😄✈️',
  
-        'Valorizamos a sua opinião sobre o atendimento Smiles. Vou transferir para nossa pesquisa, sua avaliação é fundamental para nós. 💬✈️',
+        'XXXXX, espero ter auxiliado da melhor maneira possível. Contamos com a sua participação na nossa pesquisa de satisfação, que será disponibilizada ao final do atendimento. Sua opinião é muito importante para nós! Agradecemos por escolher a Smiles! 🧡✈️',
  
         'A sua avaliação sobre o atendimento Smiles é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
     ],
@@ -72,15 +72,21 @@ Como posso te ajudar? ✈️`
     encerramento_falta_de_comunicacao: [
         'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A Smiles agradece seu contato! ✈️💬',
  
-        'Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A Smiles agradece seu contato! ✈️💬',
+        'Por falta de comunicação, estamos encerrando o contato. Qualquer dúvida, ficamos à disposição! Obrigado por ser um Cliente diamante. A GOL Smiles agradece o seu contato. 💖✈️',
  
         'Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento. A Smiles agradece seu contato! ✈️💬',
  
-        'Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A Smiles agradece seu contato! ✈️💬'
+        'Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A Smiles agradece seu contato! ✈️💬'
     ],
   
     solicitacao_de_descricao_de_atendimento_chat: [
         '[Nome], Gostaria de informá-lo(a) que, no atendimento via chat, não enviamos a descrição do atendimento. No entanto, ressalto que o histórico de nosso contato estará disponível para o(a) senhor(a) enquanto o chat estiver ativo. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição para ajudar! Agradeço pela sua compreensão.'
+    ],
+
+    empatia: [
+        'Lamento que a solução não tenha atendido às suas expectativas, gostaria muito de poder realizar o procedimento, porém mediante as regras o sistema não permite.',
+
+        'Peço desculpa que as informações passadas não se apliquem ao que deseja, gostaria muito de poder realizar o procedimento, no entanto, mediante o regulamento, não é possível.'
     ]
 }
  
@@ -191,5 +197,6 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 

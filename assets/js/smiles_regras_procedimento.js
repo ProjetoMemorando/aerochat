@@ -201,8 +201,138 @@ Para dar continuidade à sua remarcação, por favor, entre em contato com a nos
 
         
     ]
+    ,
+    dog_nacional: [
 
-    
+        `O serviço Dog&Cat Cabine (Nacional) permite que cachorros ou gatos de até 12 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas: 
+        
+        ✈︎Voos nacionais: Mínimo de 3 horas de antecedência ao voo para compra do serviço ✈︎O animal acompanhará seu dono em todos os voos até o destino final. 
+        ✈︎Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet. 
+        ✈︎Passageiro é responsável em providenciar todos os documentos necessários. 
+        ✈︎Dimensões da caixa de transporte: rígida (fibra plástica, plástico resistente): até 22 cm de altura, 32 cm de largura e 43 cm de profundidade. Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 cm de profundidade. Valores dos serviços: 
+        ✈︎Voos Nacionais: -Fora da janela de check-in (+48h do voo): R$ 200,00. — Dentro da janela de check-in (-48h do voo): R$ 250,00. 
+        ✈︎Voos Nacionais: -Fora da janela de check-in (+48h do voo): XXXX.milhas. — Dentro da janela de check-in (-48h do voo): XXXX.milhas. 
+        ✈︎Documentos necessários para voos nacionais: Atestado Sanitário: Deve constar que o animal está em boas condições de saúde e válido por 10 dias após a data de emissão. Carteira de Vacinação: Deve incluir a vacina antirrábica com o nome do laboratório, tipo de vacina e número da ampola utilizada. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo. Passaporte para Trânsito de Cães e Gatos (opcional): O proprietário deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização. 
+        
+        Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!`
+    ]
+    ,
+    dog_internacional: [
+
+        `O serviço Dog&Cat Cabine (Internacional) permite que cachorros ou gatos de até 12 kg (incluindo a caixa de transporte) viajem junto com seus donos. Para garantir uma viagem tranquila, é importante seguir algumas diretrizes específicas:
+        
+        ✈︎Voos internacionais: Mínimo de 24 horas de antecedência ao voo para compra do serviço
+        ✈︎O animal acompanhará seu dono em todos os voos até o destino final.
+        ✈︎Durante o voo, o animal deve ficar na caixa de transporte, acomodada abaixo do assento à frente do dono, durante toda a viagem, por questão de segurança ao seu pet.
+        ✈︎Passageiro é responsável em providenciar todos os documentos necessários.
+        ✈︎Dimensões da caixa de transporte: Rígida (fibra plástica, plástico resistente): até 22 cm de altura, 32 cm de largura e 43 cm de profundidade. Flexível (tecidos impermeáveis): até 24 cm de altura, 32 cm de largura e 43 cm de profundidade. Valores dos serviços:
+        ✈︎Voos Internacionais: -Fora da janela de check-in (+48h do voo): R$ 800,00. — Dentro da janela de check-in (-48h do voo): R$ 850,00.
+        ✈︎Voos Internacionais: -Fora da janela de check-in (+48h do voo): XXXX.milhas. — Dentro da janela de check-in (-48h do voo): XXXX.milhas.
+        ✈︎Documentos necessários para voos internacionais: -Atestado Sanitário: O atestado médico veterinário deve constar que o animal está em boas condições de saúde e deve ser emitido até 10 dias antes da data de embarque. -Carteira de Vacinação: Deve incluir a vacina antirrábica, obrigatória para animais a partir do 3º mês de idade. A vacina deve ter sido aplicada há mais de 30 dias, exceto em caso de reforço, onde não é necessário esperar 30 dias para o voo. -Certificado Veterinário Internacional (CVI ou CZI): Certificado emitido para voo internacional, válido por 60 dias a partir da emissão. -Passaporte para Trânsito de Cães e Gatos (opcional): O tutor deve solicitar ao veterinário que registre as informações sanitárias no passaporte até 10 dias antes da viagem e depois procurar a Unidade do Vigiagro para a legalização. Válido por 60 dias a partir da legalização pelo Vigiagro, desde que a vacinação antirrábica esteja válida. -Exclusivo para voos com destino a Miami (MIA): Autorização do CDC (Centro de Controle e Prevenção de Doenças), certificado emitido exclusivamente pelo CDC para entrada de cães nos EUA através de Miami, com validade determinada pelo CDC. 
+        
+        Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar!`
+    ]
+    ,
+    bilhete_cortesia: [
+
+        `O Participante da categoria Diamante, que atingir 26.000 Milhas Qualificáveis ou 26 Trechos Qualificáveis, terá direito a 1 (uma) passagem aérea de ida e/ou volta para um acompanhante e cota com validade de 12 meses, a partir da data em que foi concedido o benefício.
+
+        ✈︎Emissão: deve ser feita com no mínimo 7 dias de antecedência do embarque.
+        ✈︎Resgate: exclusivo pelo site da GOL (voegol.com.br).
+        ✈︎Válido para voos GOL no Brasil (exceto Fernando de Noronha) e internacionais (exceto EUA).
+        ✈︎Válido para voos operados pela GOL.
+        ✈︎Não válido para voos com Milhas Smiles, operados por parceiras, ou voos internacionais em feriados nacionais no Brasil. (dois dias úteis antes e um após).
+        ✈︎Não aplicável para múltiplos trechos ou tarifa Premium Economy.
+        ✈︎Não é permitido Stopover.
+        ✈︎Não é permitido pagamento com Smiles&Money
+        ✈︎Se o Cliente acompanhante for um membro Smiles, o voo em cortesia não contará para acúmulo de milhas qualificáveis ou trechos qualificáveis para upgrade de categoria.
+        ✈︎Para o Cliente Diamante, o acúmulo de milhas qualificáveis ou trechos para upgrade acontecerão normalmente, conforme as regras.
+        ✈︎A cota é considerada utilizada no momento da emissão, mesmo que o passageiro não viaje.`
+        
+        ,
+
+        `Para realizar a emissão do bilhete cortesia, basta seguir os seguintes passos:
+        
+        ✈︎Acesse: www.voegol.com.br 
+        ✈︎Clique em Login e efetue o login 
+        ✈︎Confirme se o login foi realizado, aparecerá o nome do cliente no canto superior direito da tela. 
+        ✈︎Passe o Mouse em cima do nome, abrirá um menu. 
+        ✈︎Clique na opção Resgate do Bilhete Cortesia. 
+        ✈︎Clique em COMPRE AQUI. 
+        ✈︎Insira os dados do voo desejado. 
+        ✈︎Atenção, pois deverá colocar a busca para 2 passageiros e trecho deve ser puramente GOL. Somente na América do Sul. Já aparecerá o alerta de emissão da cortesia. 
+        ✈︎Clique em BUSCAR VOOS. 
+        ✈︎Escolhas os voos desejados e clique na opção para prosseguir e inserir os dados dos passageiros. 
+        ✈︎Após preencher os dados dos passageiros, irá apresentar o resumo da compra. Basta preencher os dados de cobrança para concluir emissão.
+        
+        Caso não seja possível realizar a emissão seguindo os passos citados, peço que me envie uma captura de tela com a mensagem do erro, contendo data e horário, por gentileza.`
+
+    ]
+    ,
+    tarifa_especial: [
+        `Com relação à Tarifa Especial Diamante:
+        
+        ✈︎Para participantes da categoria Diamante, que acumularem 32.000 Milhas Qualificáveis ou 32 Trechos Qualificáveis.
+        ✈︎A quantidade de cotas anuais será mantida, permitindo resgatar até 15 (quinze) trechos para voar dentro do Brasil com a GOL, exceto para Fernando de Noronha, pagando até 35.000 (trinta e cinco mil) Milhas Smiles por trecho.
+        ✈︎As cotas serão concedidas quando o Participante acumular a quantidade de Milhas Qualificáveis ou Trechos Qualificáveis exigidos e terão validade de 12 (doze) meses a partir da data da concessão.
+        ✈︎Antecedência para resgate do voo: será necessário realizar o resgate com, no mínimo, 7 (sete) dias de antecedência em relação à data do voo pretendido.`
+        
+        ,
+
+         `Hoje a Smiles permite que o titular cadastre até 25 pessoas na lista dos passageiros favoritos. Porém, o cliente da categoria Diamante, poderá escolher até 5 passageiros, da lista. Para emitir na Tarifa especial Diamante, sem o titular estar na mesma reserva.  
+  
+         Como você poderá cadastrar:  
+
+         ✈︎O titular deve realizar esse cadastro em "Passageiros Favoritos", logado em sua conta Smiles. Ao final do cadastro da pessoa, é necessário habilitar a flag (caixa de seleção) que diz "Marcar essa pessoa para emissões com tarifa especial sem o titular". Se realizado corretamente, o beneficiário ficará com a marcação de "Tarifa Especial" no cadastro de "Passageiro Favorito" 
+         ✈︎Após cadastrar cada beneficiário corretamente, o titular deverá aguardar 30 dias antes de realizar a emissão para o beneficiário em questão sem a obrigatoriedade de estar junto no localizador. Agora é obrigatório realizar o resgate com mínimo de 7 dias de antecedência da data do voo. 
+         ✈︎Uma vez cadastrado e habilitado como beneficiário, ele só poderá ser alterado após 18 meses.`
+        
+    ]
+    ,
+    remarcacao_gratuita: [
+        `Segue as regras para remarcação gratuita:
+        
+        ✈︎O benefício Remarcação Gratuita consiste na concessão ao Participante, de cotas para remarcação, de forma gratuita, de trechos em voos operados pela GOL em todo território nacional, resgatados por intermédio do Programa Smiles (utilizando tão somente a modalidade 100% Milhas Smiles ou, ainda, a modalidade Smiles&Money), e ainda, pelos canais oficiais de vendas da GOL, desde que o participante possua o localizador, ficando, portanto, isento da cobrança da taxa de remarcação de voo. As diferenças tarifárias, se existentes, serão cobradas do participante, não estando incluídas neste benefício.
+        ✈︎O pedido de Remarcação Gratuita do voo apenas poderá ser realizado em até 3 horas de antecedência do horário de embarque.
+        ✈︎Obrigatoriamente, havendo a remarcação de um trecho, isso se estenderá a todos os passageiros que constam no localizador. Respeitadas essas regras, a remarcação de trechos no localizador poderá se dar de forma integral ou não (não necessariamente para todos os trechos). Caso o Participante não tenha cotas suficientes para a remarcação do localizador na forma pretendida e permitida, poderá integralizar o pagamento utilizando moeda corrente nacional.
+        ✈︎Além disso, não será permitida a troca de trecho ou passageiro por localizador. Somente poderá ser alterada a data e/ou horário do voo original operado pela GOL por trecho.                              
+        ✈︎A utilização da cota de Remarcação Gratuita do voo apenas poderá ocorrer dentro da validade do bilhete aéreo, a saber, no período de 12 (doze) meses, a contar da data de sua emissão.
+        ✈︎Em se tratando de passagens aéreas adquiridas diretamente pelos canais oficiais de vendas da GOL, as cotas de Remarcação Gratuita apenas poderão ser utilizadas para as tarifas CLASSIC e LIGHT. Assim, as tarifas FLEX/BASIC e Premium Economy não permitirão a sua utilização.
+        ✈︎Voos “stopover”, ou seja, aqueles que permitem ao Participante a parada em uma determinada cidade intermediária durante uma escala ou conexão, não permitirão o uso de cotas de Remarcação Gratuita.`
+
+    ]
+    ,
+    cancelamento_gratuito: [
+        `Regras do Cancelamento Gratuito na GOL/SMILES:
+  
+        ✈︎O benefício Cancelamento Gratuito na GOL consiste na concessão ao Participante de cotas de cancelamento gratuito de trechos em voos operados pela GOL em todo território nacional, resgatados por intermédio do Programa Smiles (utilizando tão somente a modalidade 100% Milhas Smiles ou, ainda, a modalidade Smiles & Money), e ainda, adquiridos pelos canais oficiais de vendas da GOL, desde que o Titular esteja no localizador, ficando, portanto, isento da cobrança da taxa de cancelamento.
+        ✈︎O pedido de Cancelamento Gratuito na GOL apenas poderá ser realizado com até 3 (três) horas de antecedência do horário do voo.
+        ✈︎Para utilização da cota de Cancelamento Gratuito na GOL, o trecho cancelado deve ser integral. Ou seja, o pedido de cancelamento não pode ser apenas do trecho de ida ou volta, devendo o cancelamento ser do trecho em sua totalidade.
+        ✈︎Como a taxa de cancelamento é cobrada por trecho e passageiro do localizador, cada cota de Cancelamento Gratuito na GOL concedida, dará direito à isenção de uma taxa de cancelamento por trecho e passageiro. Para um mesmo código de reserva do passageiro será concedida apenas 1 (uma) cota de cancelamento.
+        ✈︎Caso o Participante não tenha cotas suficientes para o cancelamento do localizador na forma pretendida e permitida, poderá integralizar o pagamento utilizando moeda corrente nacional.
+        ✈︎Não será permitido utilizar o benefício para a Tarifa Especial Ouro e/ou Tarifa Especial Diamante, ainda que o Participante conste do localizador.
+        ✈︎Em se tratando de passagens aéreas adquiridas diretamente pelos canais oficiais de vendas da GOL, nenhuma das 4 (quatro) tarifas oferecidas pela GOL – CLASSIC, LIGHT, FLEX E BASIC – permitirão a utilização das cotas de Cancelamento Gratuito na GOL.`
+    ]
+    ,
+    cancelamento_voluntario: [
+        `Para o cancelamento é cobrada a taxa de R$:XXX, por trecho e passageiro. O reembolso das milhas é estornado na conta dentro de 72h, com validade original. O valor pago em dinheiro, é encaminhado dentro de 7 dias para o cartão e o mesmo tem o prazo de 30 a 60 dias, dependendo do fechamento da sua fatura para estornar o valor. 
+        Além disso, é cobrada a taxa de conveniência de R$ 40,00 quando o cancelamento é realizado através da central, pois o procedimento disponibilizado via site Smiles.`
+
+    ]
+    ,
+    antecipacao_postergacao: [
+        `A antecipação do horário do voo, deve ser solicitada no mesmo dia do voo original. 
+        O passageiro poderá antecipar para qualquer horário que antecede o voo original. Na categoria diamante, o procedimento é realizado sem custo, sendo liberada 1 antecipação ou postergação por bilhete, mediante a disponibilidade de voos do momento.`
+        
+        ,
+        
+        `A solicitação de postergação do horário, deve ser feita na data do voo entre 6 horas e até 1h15 antes do horário do voo original. 
+        O adiamento pode ser feito para um voo com embarque até 6 horas após o horário original, mediante disponibilidade de voo do momento. 
+        Lembrando que na Categoria Diamante é liberada 1 antecipação ou postergação por bilhete.`
+
+    ]
+
+           
 
     
 }
@@ -313,3 +443,4 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+

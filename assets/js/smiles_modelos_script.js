@@ -1,7 +1,7 @@
 // LISTA DE SCRIPTS
 let modelos_scripts = {
     script_inicial: [
-        'Olá, seja bem-vindo(a) ao atendimento Smiles! Este atendimento é exclusivo para os clientes Dimante, é ótimo ter você aqui! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
+        'Olá, seja bem-vindo(a) ao atendimento Smiles! Este atendimento é exclusivo para os clientes Diamante, é ótimo ter você aqui! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
 
         'Olá! Seja bem-vindo(a) ao atendimento Smiles! É um prazer receber você neste canal dedicado aos nossos clientes Diamante. ✈😊 Meu nome é [XXXXXX] e estou à disposição para ajudar no que precisar.' ,
         
@@ -200,6 +200,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

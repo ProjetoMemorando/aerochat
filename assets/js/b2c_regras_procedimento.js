@@ -420,7 +420,49 @@ Para dar continuidade, pedimos que faça o login no site utilizando os dados de 
     `
 
     ]
+        ,
+
+    ressarcimento: [ `XXXX, sinto muito pelo transtorno. Para que possa te ajudar, preciso que informe os dados da reserva: localizador, nome completo dos passageiros, origem, destino e datas dos voos.
     
+Também será necessário enviar as notas fiscais referentes aos gastos. Serão aceitos apenas os seguintes documentos:
+Cupom Fiscal;
+Nota Fiscal Eletrônica;
+Nota Fiscal física com CNPJ;
+DANFE (Documento Auxiliar da Nota Fiscal Eletrônica);
+Recibo com CNPJ (somente para gastos com alimentação).
+Recibos de aplicativos de transporte serão aceitos apenas se estiverem completos, em formato PDF, contendo data, horário, nome do passageiro, trajeto e forma de pagamento.
+Recibos de hospedagem emitidos por sites de reserva também devem estar completos, em PDF, contendo o período da hospedagem, data de emissão, nome do cliente e forma de pagamento. `
+
+        ,
+                    
+    `Para dar continuidade à sua solicitação, e encaminhar o pedido de ressarcimento ao setor responsável, será necessário informar os seguintes dados:
+ 
+✈︎Nome do titular da conta:   
+✈︎CPF do titular da conta:   
+✈︎Data de Nascimento:   
+✈︎Tipo de Endereço:   
+✈︎Endereço:    
+✈︎Número:   
+✈︎CEP:    
+✈︎Cidade:     
+✈︎Sigla do Estado:    
+✈︎Telefone:   
+✈︎E-mail:   
+✈︎Nome do Banco:   
+✈︎Número da Agência:   
+✈︎Número da Conta com Dígito:   
+✈︎Tipo de Conta:   
+ 
+✈︎Bancos recomendados: Banco do Brasil; Banrisul; Bradesco; HSBC; Itaú; Santander.`
+
+        ,
+
+    `XXXX, obrigado por aguardar, sua solicitação já foi registrada, gerando o protocolo de número XXXX, peço que aguarde o prazo de resposta de até 7 dias, através do endereço de e-mail da conta utilizada para iniciar o nosso atendimento.
+ 
+Você também pode consultar o protocolo em nosso site, através do link: https://b2c.voegol.com.br/minhas-viagens/protocolo.`
+
+    ]
+     
 }
 
 
@@ -529,6 +571,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

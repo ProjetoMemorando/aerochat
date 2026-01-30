@@ -1,7 +1,10 @@
 // LISTA DE SCRIPTS
 let modelos_scripts = {
     script_inicial: [
-        'Olá, seja bem-vindo(a) ao atendimento Smiles! Este atendimento é exclusivo para os clientes Dimante, é ótimo ter você aqui conosco! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
+        'Olá, seja bem-vindo(a) ao atendimento Smiles! Este atendimento é exclusivo para os clientes Dimante, é ótimo ter você aqui! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
+
+        'Olá! Seja bem-vindo(a) ao atendimento Smiles! É um prazer receber você neste canal dedicado aos nossos clientes Diamante. ✈😊 Meu nome é [XXXXXX] e estou à disposição para ajudar no que precisar.' ,
+        
         `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXX. 
         Para garantir uma melhor experiência, peço que não se ausente do atendimento por mais de 6 minutos, para que a conversa não seja encerrada, caso seja, não se preocupe, você pode iniciar um novo atendimento a qualquer momento. 
 Como posso te ajudar? ✈️`
@@ -27,7 +30,7 @@ Como posso te ajudar? ✈️`
     ],
  
     pesquisa_de_satisfacao: [
-        'XXXX, como um cliente Diamante, seu feedback sobre o atendimento Smiles tem uma importância ainda mais especial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. 💖💎',
+        'XXXX, como um cliente Diamante, seu feedback sobre o atendimento Smiles tem uma importância ainda mais especial para nós! Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. 💖💎',
  
         'XXXX, obrigado por ser um cliente Diamante, a Smiles agradece o seu contato! Sua opinião é essencial para nós. Pedimos que avalie o atendimento e deixe uma breve descrição da sua experiência. Seu feedback nos ajuda a melhorar sempre! 😄✈️',
          
@@ -197,6 +200,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

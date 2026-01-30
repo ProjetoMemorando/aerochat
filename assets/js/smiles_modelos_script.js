@@ -1,7 +1,7 @@
 // LISTA DE SCRIPTS
 let modelos_scripts = {
     script_inicial: [
-        'Olá, seja bem-vindo(a) ao atendimento Smiles! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
+        'Olá, seja bem-vindo(a) ao atendimento Smiles! Este atendimento é exclusivo para os clientes Dimante, é ótimo ter você aqui conosco! ✈😊 Meu nome é [XXXXXX], estou à disposição para te auxiliar.' ,
         `(Nome do Cliente), gostaria de iniciar informando o número do protocolo que foi gerado para este atendimento: XXXX. 
         Para garantir uma melhor experiência, peço que não se ausente do atendimento por mais de 6 minutos, para que a conversa não seja encerrada, caso seja, não se preocupe, você pode iniciar um novo atendimento a qualquer momento. 
 Como posso te ajudar? ✈️`
@@ -27,13 +27,13 @@ Como posso te ajudar? ✈️`
     ],
  
     pesquisa_de_satisfacao: [
-        'Seu feedback sobre o atendimento Smiles é essencial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. ✈️💬',
+        'XXXX, como um cliente Diamante, seu feedback sobre o atendimento Smiles tem uma importância ainda mais especial para nós. Por favor, compartilhe a sua experiência conosco. Agradecemos a sua avaliação. 💖💎',
  
-        'XXXX, a Smiles agradece o seu contato! Sua opinião é essencial para nós. Pedimos que avalie o atendimento e deixe uma breve descrição da sua experiência. Seu feedback nos ajuda a melhorar sempre! 😄✈️',
- 
-        'XXXXX, espero ter auxiliado da melhor maneira possível. Contamos com a sua participação na nossa pesquisa de satisfação, que será disponibilizada ao final do atendimento. Sua opinião é muito importante para nós! Agradecemos por escolher a Smiles! 🧡✈️',
- 
-        'A sua avaliação sobre o atendimento Smiles é importante para nós. Por favor, deixe-nos saber como foi sua experiência conosco através da nossa pesquisa. 💖✈️'
+        'XXXX, obrigado por ser um cliente Diamante, a Smiles agradece o seu contato! Sua opinião é essencial para nós. Pedimos que avalie o atendimento e deixe uma breve descrição da sua experiência. Seu feedback nos ajuda a melhorar sempre! 😄✈️',
+         
+        'XXXX, a Smiles agradece seu contato e a confiança como cliente Diamante! Queremos ouvir você: avalie o atendimento e conte rapidamente como foi sua experiência. Sua opinião é fundamental para seguirmos evoluindo. ✈️✨',
+
+        'XXXX, espero ter auxiliado da melhor maneira possível. Contamos com a sua participação na nossa pesquisa de satisfação, que será disponibilizada ao final do atendimento. Sua opinião é muito importante para nós! Agradecemos por escolher a Smiles! 🧡✈️'
     ],
  
   alteracao_cadastral: [
@@ -197,6 +197,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

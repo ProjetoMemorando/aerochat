@@ -87,9 +87,9 @@ Como posso te ajudar? ✈️`
     ],
 
     atrito: [
-        'Lamento que a solução não tenha atendido às suas expectativas, gostaria muito de poder realizar o procedimento, porém mediante as regras o sistema não permite.',
+        'Lamento que a solução não tenha atendido às suas expectativas, porém mediante as regras o sistema não permite.',
 
-        'Peço desculpa que as informações passadas não se apliquem ao que deseja, gostaria muito de poder realizar o procedimento, no entanto, mediante o regulamento, não é possível.'
+        'Peço desculpa que as informações passadas não se apliquem ao que deseja, no entanto, mediante o regulamento, não é possível.'
     ]
 }
  
@@ -200,6 +200,7 @@ elementoPai.addEventListener('click', (event) => {
         border_success(id_element);
     }
 });
+
 
 
 

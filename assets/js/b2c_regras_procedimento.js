@@ -85,41 +85,41 @@ Se tiver alguma dúvida ou precisar de mais informações, estou aqui para ajuda
 
     regra_tarifa: [
 `Tarifa Promo:
-✈︎Bagagem despachada: Na PROMO não tem direito a bagagem gratuita despachada;
-✈︎Marcação de assento: Custo adicional, exceto durante o check-in, onde é gratuita (de 48 horas a 1 hora antes do voo).
-✈︎Remarcação (Mudança de data): Você paga 100% do valor da passagem para remarcar, pagando o valor total da nova tarifa escolhida.
-✈︎Cancelamento: Em caso de cancelamento, o valor da passagem não será reembolsado.
-✈︎Reembolso: Esta tarifa não permite reembolso, exceto para as taxas de embarque.
-✈︎Antecipação de voo: Esta tarifa não permite antecipação.
-✈︎No Show (Não comparecimento): Se você não comparecer ao embarque, será cobrado o valor total da passagem, que corresponde a 100% do seu preço original. Caso opte por uma nova tarifa, você pagará o valor total dessa tarifa.
+✈︎ Bagagem despachada: Na PROMO não tem direito a bagagem gratuita despachada;
+✈︎ Marcação de assento: Custo adicional, exceto durante o check-in, onde é gratuita (de 48 horas a 1 hora antes do voo).
+✈︎ Remarcação (Mudança de data): Você paga 100% do valor da passagem para remarcar, pagando o valor total da nova tarifa escolhida.
+✈︎ Cancelamento: Em caso de cancelamento, o valor da passagem não será reembolsado.
+✈︎ Reembolso: Esta tarifa não permite reembolso, exceto para as taxas de embarque.
+✈︎ Antecipação de voo: Esta tarifa não permite antecipação.
+✈︎ No Show (Não comparecimento): Se você não comparecer ao embarque, será cobrado o valor total da passagem, que corresponde a 100% do seu preço original. Caso opte por uma nova tarifa, você pagará o valor total dessa tarifa.
 `
 ,
 `Tarifa Light:
-✈︎Bagagem despachada: Na LIGHT não tem direito a bagagem gratuita despachada;
-✈︎Marcação de assento: Custo adicional, exceto durante o check-in, onde é gratuita (de 48 horas a 1 hora antes do voo).
-✈︎Remarcação (Mudança de data): Para postergar a data do voo, você pagará o valor de R$ 400,00 ou 100% do preço original da passagem, prevalecendo o menor entre os dois, se a nova passagem tiver um valor superior, será necessário cobrir a diferença de preço.
-✈︎Antecipação de voo: Você pode antecipar seu voo pagando uma taxa de R$ 100,00. Essa opção está disponível até 6 horas antes do horário do seu voo original.
-✈︎Cancelamento: Para cancelar a passagem, será cobrado o valor de R$ 400,00 ou 100% do preço da passagem, prevalecendo o menor entre os dois.
-✈︎Reembolso: Esta tarifa não permite reembolso, exceto pelas taxas de embarque.
-✈︎No Show (Não comparecimento): Em caso de não comparecimento ao voo, será cobrado R$ 500,00 ou 100% do valor da passagem, prevalecendo o menor entre os dois, além da diferença de preço caso haja disponibilidade de outra passagem similar.
+✈︎ Bagagem despachada: Na LIGHT não tem direito a bagagem gratuita despachada;
+✈︎ Marcação de assento: Custo adicional, exceto durante o check-in, onde é gratuita (de 48 horas a 1 hora antes do voo).
+✈︎ Remarcação (Mudança de data): Para postergar a data do voo, você pagará o valor de R$ 400,00 ou 100% do preço original da passagem, prevalecendo o menor entre os dois, se a nova passagem tiver um valor superior, será necessário cobrir a diferença de preço.
+✈︎ Antecipação de voo: Você pode antecipar seu voo pagando uma taxa de R$ 100,00. Essa opção está disponível até 6 horas antes do horário do seu voo original.
+✈︎ Cancelamento: Para cancelar a passagem, será cobrado o valor de R$ 400,00 ou 100% do preço da passagem, prevalecendo o menor entre os dois.
+✈︎ Reembolso: Esta tarifa não permite reembolso, exceto pelas taxas de embarque.
+✈︎ No Show (Não comparecimento): Em caso de não comparecimento ao voo, será cobrado R$ 500,00 ou 100% do valor da passagem, prevalecendo o menor entre os dois, além da diferença de preço caso haja disponibilidade de outra passagem similar.
 
 `
 ,
 `Tarifa Plus:
-✈︎Bagagem despachada: Na PLUS você tem direito a primeira bagagem gratuita despachada;
-✈︎Marcação de assento: Você tem direito à marcação de assento gratuita, permitindo que escolha com antecedência onde deseja sentar-se durante o voo, sem custos adicionais.
-✈︎Remarcação (Mudança de data): Para postergar, você pagará R$ 370,00 ou 100% do valor da passagem, o que for mais barato. Se a nova passagem for mais cara, também será necessário pagar a diferença de preço.
-✈︎Antecipação de voo: Você pode antecipar seu voo de forma gratuita. Essa opção está disponível até 6 horas antes do horário do seu voo original.
-✈︎Cancelamento: Para cancelar sua passagem, será cobrada uma taxa de R$ 370,00 ou 100% do valor da passagem, prevalecendo o menor valor entre os dois.
-✈︎Reembolso: Após o cancelamento, você receberá de volta 40% do valor restante da passagem.
-✈︎No Show (Não comparecimento): Se você não comparecer ao voo, será cobrado R$ 470,00 ou 100% do valor da passagem, prevalecendo o menor valor entre os dois. Caso haja disponibilidade de outra passagem similar, também será necessário cobrir a diferença de preço.
+✈︎ Bagagem despachada: Na PLUS você tem direito a primeira bagagem gratuita despachada;
+✈︎ Marcação de assento: Você tem direito à marcação de assento gratuita, permitindo que escolha com antecedência onde deseja sentar-se durante o voo, sem custos adicionais.
+✈︎ Remarcação (Mudança de data): Para postergar, você pagará R$ 370,00 ou 100% do valor da passagem, o que for mais barato. Se a nova passagem for mais cara, também será necessário pagar a diferença de preço.
+✈︎ Antecipação de voo: Você pode antecipar seu voo de forma gratuita. Essa opção está disponível até 6 horas antes do horário do seu voo original.
+✈︎ Cancelamento: Para cancelar sua passagem, será cobrada uma taxa de R$ 370,00 ou 100% do valor da passagem, prevalecendo o menor valor entre os dois.
+✈︎ Reembolso: Após o cancelamento, você receberá de volta 40% do valor restante da passagem.
+✈︎ No Show (Não comparecimento): Se você não comparecer ao voo, será cobrado R$ 470,00 ou 100% do valor da passagem, prevalecendo o menor valor entre os dois. Caso haja disponibilidade de outra passagem similar, também será necessário cobrir a diferença de preço.
 `
 ,
  `Tarifa Max: 
- ✈︎Bagagem despachada: Na Max você tem direito a primeira e a segunda bagagem gratuita despachada.
-✈︎Marcação de assento: Você tem direito à marcação de assento gratuita, permitindo que escolha com antecedência onde deseja sentar-se durante o voo, sem custos adicionais.
-✈︎Assento GOL + Conforto: Você tem direito à marcação de assento Gol + Conforto, localizados nas fileiras de 1 a 5 em voos domésticos e nas saídas de emergência em voos nacionais e internacionais. Além de mais espaço, você terá prioridade no check-in com despacho de bagagem, embarque antecipado e compartimento de bagagem de mão exclusivo. 
-✈︎Remarcação (Mudança de data): Você tem a flexibilidade de remarcar sem custos adicionais de multa, disponível gratuitamente para qualquer horário no mesmo dia do voo original. No entanto, se a nova passagem tiver um valor superior, será necessário pagar a diferença de preço entre os bilhetes.
+✈︎ Bagagem despachada: Na Max você tem direito a primeira e a segunda bagagem gratuita despachada.
+✈︎ Marcação de assento: Você tem direito à marcação de assento gratuita, permitindo que escolha com antecedência onde deseja sentar-se durante o voo, sem custos adicionais.
+✈︎ Assento GOL + Conforto: Você tem direito à marcação de assento Gol + Conforto, localizados nas fileiras de 1 a 5 em voos domésticos e nas saídas de emergência em voos nacionais e internacionais. Além de mais espaço, você terá prioridade no check-in com despacho de bagagem, embarque antecipado e compartimento de bagagem de mão exclusivo. 
+✈︎ Remarcação (Mudança de data): Você tem a flexibilidade de remarcar sem custos adicionais de multa, disponível gratuitamente para qualquer horário no mesmo dia do voo original. No entanto, se a nova passagem tiver um valor superior, será necessário pagar a diferença de preço entre os bilhetes.
 `
     ],
     regra_tarifa_nova: [
@@ -130,7 +130,7 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg.
 ✈ Mala pequena (até 12 kg) e Bagagem despachada (até 23 kg): Disponível mediante taxa adicional. Mala pequena sujeita a despacho no embarque.
 ✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
-✈ Remarcação (Mudança de data) Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida.
+✈ Remarcação (Mudança de data) Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Não é permitida nesta tarifa.
 
@@ -141,7 +141,7 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg e uma mala pequena (até 12 kg). Mala pequena sujeita a despacho no embarque.
 ✈ Bagagem despachada (até 23 kg): Disponível mediante taxa adicional.
 ✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança ou categoria Smiles, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
-✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida
+✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
@@ -151,8 +151,8 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
 ✈ Marcação de Assento padrão: Marcação gratuita, permitindo que você escolha o assento com antecedência.
-✈Assento GOL + Conforto: Os Clientes podem escolher seus assentos mediante cobrança ou benefício categoria Smiles.
-✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, será cobrado o valor total da nova tarifa escolhida
+✈ Assento GOL + Conforto: Os Clientes podem escolher seus assentos mediante cobrança ou benefício categoria Smiles.
+✈ Remarcação (Mudança de data): Taxa de R$ 450,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
@@ -161,8 +161,8 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
  `Tarifa FLEX:
 ✈ As taxas são aplicadas por trecho e por passageiro. Veja abaixo os detalhes:
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
-✈Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
-✈Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
+✈ Marcação de Assento: Assentos padrão e GOL + Conforto: Marcação gratuita, permitindo que você escolha o assento com antecedência.
+✈ Remarcação (Mudança de data): Sem taxa de remarcação, será cobrado apenas o valor da diferença tarifária.
 ✈ Cancelamento: Permitido sem cobrança de taxas.
 ✈ Reembolso: Permitido o reembolso total e sem taxas.
 ✈ Antecipação de Voo: Permitida de forma gratuita, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.

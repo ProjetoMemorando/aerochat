@@ -130,7 +130,10 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg.
 ✈ Mala pequena (até 12 kg) e Bagagem despachada (até 23 kg): Disponível mediante taxa adicional. Mala pequena sujeita a despacho no embarque.
 ✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
-✈ Remarcação (Mudança de data): Taxa de R$ 475,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos nacionais: Taxa de R$ 475,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para América do Sul e Caribe: Taxa de U$ 220,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para os EUA: Taxa de U$ 220,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para a Europa: Taxa de U$ 250,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Não é permitida nesta tarifa.
 
@@ -141,7 +144,10 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg e uma mala pequena (até 12 kg). Mala pequena sujeita a despacho no embarque.
 ✈ Bagagem despachada (até 23 kg): Disponível mediante taxa adicional.
 ✈ Marcação de Assento: Os Clientes podem escolher seus assentos mediante cobrança ou categoria Smiles, até 60 horas antes do voo. Após esse prazo, o sistema marca automaticamente os assentos padrão gratuitamente de forma aleatória, e a remarcação passa a ser cobrada.
-✈ Remarcação (Mudança de data): Taxa de R$ 475,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos nacionais: Taxa de R$ 475,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para América do Sul e Caribe: Taxa de U$ 220,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para os EUA: Taxa de U$ 220,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para a Europa: Taxa de U$ 250,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 
@@ -152,7 +158,10 @@ Atenção: A tarifa Basic só estará disponível para viagens com origem em out
 ✈ Bagagem gratuita: 1 bolsa ou mochila de até 10 kg, uma mala pequena (até 12 kg) e uma bagagem despachada (até 23 kg). Mala pequena sujeita a despacho no embarque.
 ✈ Marcação de Assento padrão: Marcação gratuita, permitindo que você escolha o assento com antecedência.
 ✈ Assento GOL + Conforto: Os Clientes podem escolher seus assentos mediante cobrança ou benefício categoria Smiles.
-✈ Remarcação (Mudança de data): Taxa de R$ 455,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos nacionais: Taxa de R$ 455,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para América do Sul e Caribe: Taxa de U$ 200,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para os EUA: Taxa de U$ 200,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
+✈ Remarcação (Mudança de data) em voos de/para a Europa: Taxa de U$ 215,00 ou 100% do valor da passagem (o que for mais barato). Além disso, se houver diferença de valor entre o voo original e o novo voo, também será cobrada.
 ✈ Cancelamento e reembolso: Não há reembolso do valor da passagem em caso de cancelamento, sendo reembolsadas apenas as taxas de embarque.
 ✈ Antecipação de Voo: Permitida mediante pagamento de taxa, sujeita à disponibilidade e limitada a uma única antecipação por passagem. Pode ser realizada para qualquer horário no dia do voo, para voos que decolem e cheguem antes do horário previsto de pouso do voo original.
 

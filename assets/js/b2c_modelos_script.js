@@ -18,11 +18,11 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     ],
  
     aviso_falta_de_interacao: [
-        '(Nome do cliente), você está por aqui? Como posso ajudá-lo?',
+        '2-	[Nome do cliente], sigo por aqui para te ajudar. 😊 Quando puder, me responda para continuarmos o atendimento.',
  
-        'Olá, [nome do cliente] ainda está conectado? Preciso que você se comunique comigo, ou o atendimento poderá ser encerrado, automaticamente, por falta de interação.',
+        '[Nome do cliente], você ainda está por aqui? Fico aguardando sua mensagem para dar continuidade ao seu atendimento. ✈ Caso não haja interação em alguns instantes, o atendimento poderá ser encerrado automaticamente.',
  
-        'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato!'
+        'Como não tivemos retorno no momento, [Nome do cliente], o atendimento será encerrado por falta de comunicação. Caso ainda precise de ajuda, será um prazer te atender novamente. GOL Linhas Aéreas agradece seu contato! 😊✈'
     ],
  
     pesquisa_de_satisfacao: [
@@ -52,23 +52,24 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     ],
  
     agradecimento: [
-        '[Nome do cliente], agradeço por ter aguardado enquanto eu analisava a sua solicitação. 😊✈💬',
+        '[Nome do cliente], obrigada por aguardar enquanto eu verificava sua solicitação. 😊✈ Já volto com as informações para você. 😊',
  
-        '[Nome do cliente], agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏💬',
+        '[Nome do cliente], agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏',
  
-        'Muito obrigada por aguardar. Pedimos desculpas pela demora. 🙇‍♀️✈️💬',
+        'Vou analisar sua solicitação, [Nome do cliente]. Peço só um instante, por gentileza. 😊
+',
  
-        '[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 🙏💖✈'
+        '[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 💖✈'
     ],
  
     acordo_de_espera: [
 
         
-        '[Nome do cliente], vou me ausentar para verificar o seu questionamento. Mas pode me chamar a qualquer momento, que estou por aqui.',
+        'Vou analisar sua solicitação, [Nome do cliente]. Peço só um instante, por gentileza. Se precisar falar comigo, estou por aqui.',
  
-        '[Nome do cliente], estou quase finalizando. Peço que aguarde um momento, por favor.',
+        '[Nome do cliente], vou verificar sua solicitação e já volto com as informações para você. Se precisar falar comigo, estou por aqui.',
         
-        'Aguarde só mais um momento, por favor.',
+        '[Nome do cliente], só mais um momento, tudo bem? Se precisar, é só me chamar.',
         
         'Só mais um momento, por favor. Caso precise de qualquer coisa, estou à disposição. É só chamar.',
  
@@ -81,9 +82,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
         'Por falta de comunicação, o contato será interrompido. Caso tenha alguma dúvida, por gentileza, retorne em nosso atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
  
         'Devido à falta de comunicação, o chat será encerrado. Se você tiver mais alguma dúvida, por favor, entre em contato conosco novamente. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
- 
-        'Devido falta de comunicação o contato será encerrado. Peço por gentileza que inicie um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬',
- 
+         
         'Por falta de interação, este chat será encerrado. Caso ainda precise do nosso auxílio, sinta-se à vontade para iniciar um novo atendimento. A GOL Linhas Aéreas agradece seu contato! ✈️💬'
     ],
   

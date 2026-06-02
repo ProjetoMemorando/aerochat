@@ -10,11 +10,11 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
     retorno_cliente: [
         'Entendi, informe por favor os dados da reserva como: localizador, trechos, datas e nomes dos passageiros.',
  
-        'Entendi a sua necessidade. Antes de prosseguirmos, por gentileza, confirme os dados da sua reserva. Preciso do localizador, dos trechos, datas e nomes dos passageiros.',
+        'Entendi a sua necessidade. Antes de prosseguirmos, por gentileza, confirme os dados de segurança da sua reserva. Preciso do localizador, dos trechos, datas e nomes dos passageiros conforme constam na reserva.',
  
         'Para darmos continuidade ao atendimento peço, por favor, que informe os dados da reserva: localizador, trechos, datas e nomes dos passageiros.',
  
-        'Para seguirmos com o atendimento preciso que compartilhe os detalhes da sua reserva: localizador, trechos, datas e nomes dos passageiros.'
+        '[Nome do cliente], para que eu possa seguir com o atendimento, poderia me informar os dados da sua reserva, por favor? Localizador, trechos, datas da viagem e nomes dos passageiros.'
     ],
  
     aviso_falta_de_interacao: [

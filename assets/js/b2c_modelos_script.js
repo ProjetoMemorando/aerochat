@@ -56,8 +56,7 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
  
         '[Nome do cliente], agradeço por sua paciência e pedimos desculpas pelo tempo de espera. ✈🙏',
  
-        'Vou analisar sua solicitação, [Nome do cliente]. Peço só um instante, por gentileza. 😊
-',
+        'Vou analisar sua solicitação, [Nome do cliente]. Peço só um instante, por gentileza. 😊',
  
         '[Nome do cliente], muito obrigada por aguardar, agradeço a sua compreensão. 💖✈'
     ],

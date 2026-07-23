@@ -387,7 +387,7 @@ Maior ou igual a R$ 400,00 = 7% do valor total da tarifa.
  
 • A GOL não trabalha com valores fixos nos voos, sendo assim, ao efetuar a cotação, o valor informado pode ser alterado no futuro, dentro de alguns minutos ou horas
  
-• Através do chat são efetuadas apenas emissões com pagamento em cartão de crédito, sendo possível efetuar o pagamento com 1 cartão de crédito, com parcelamento até 5x sem juros, e até 12x com juros, ou com 2 cartões de crédito a vista.
+• Através do chat são efetuadas apenas emissões com pagamento em cartão de crédito, sendo possível efetuar o pagamento com 1 cartão de crédito, com parcelamento até 3x sem juros, e até 12x com juros, ou com 2 cartões de crédito a vista.
  
 Caso deseje prosseguir com a emissão, preciso que me informe, por gentileza:
 

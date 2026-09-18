@@ -102,6 +102,12 @@ Orientamos que não se ausente do chat, em casos de falta de interação a parti
 
         'Peço desculpa que as informações passadas não se apliquem ao que deseja, no entanto, mediante o regulamento, não é possível.'
 
+    ],
+
+        res800: [
+        'Identificamos que há uma restrição vigente relacionada ao seu acesso ao transporte aéreo. Durante o período de suspensão, não é possível realizar o embarque. A comunicação referente à suspensão contém as informações sobre o motivo, período de vigência e os canais disponíveis para atendimento e apresentação de defesa.',
+
+        'Foi identificada uma restrição relacionada ao seu acesso ao transporte aéreo. Até o término do período de suspensão, não será possível realizar o embarque. As informações sobre o motivo da suspensão, o período em que ela permanecerá vigente e os canais para atendimento e apresentação de defesa estão disponíveis na comunicação enviada referente à medida.'
     ]
     
 }
